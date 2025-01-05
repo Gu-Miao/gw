@@ -1,32 +1,32 @@
 # GW Mod for Diablo II
 
-基于 [TinaAlone Mod](https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315) 进行修改。
+基于 <a href="https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315" target="__blank">TinaAlone Mod</a> 进行修改。
 
 ## Mod 简介
 
-本 MOD 为单机版适配 2.7.2 版。力求保持原版风貌，对文字和 UI 进行了优化等辅助功能。
-免责申明：本 MOD 只用于单机版游戏。不能应用于战网，相关风险请自行把握，本人不对使用此 MOD 可能产生的任何风险负责。敬请知悉！
+原 TinaAlone MOD 为单机版适配 `2.7.2` 版。力求保持原版风貌，对文字和 UI 进行了优化等辅助功能。
+免责申明：<span style="color: red;">**本 MOD 只用于单机版游戏。不能应用于战网！！！**</span>
 
 ## MOD 安装位置
 
-将 Tina 文件夹复制放到游戏安装根目录内 mods 文件夹内（若无 mods 文件夹请新建一个）。
-即放到 Diablo II Resurrected\mods\TinaAlone\TinaAlone.mpq 目录下。
+将 Tina 文件夹复制放到游戏安装根目录内 Mods 文件夹内（若无 Mods 文件夹请新建一个）。
+即放到 `Diablo II Resurrected\Mods\gw\gw.mpq` 目录下。
 
 [7 页大箱子]说明：
 
-- 进入游戏后，创建一个新角色，mod 会自动在存档目录下创建 mods\TinaAlone\保存游戏存档（不影响以前的存档）。
-- 附件解压后有两个 SharedStashHardCoreV2.d- 和 SharedStashSoftCoreV2.d- 文件，这是 7 页大箱子必备组件，复制到新创建的游戏存档目录里，否则共享箱子只有 4 页，若游戏存档目录里没有 mods 或 mods 文件夹下没有 TinaAlone 文件夹，请新建一个。
-  路径示例：C:\Users\ (电脑用户名) \Saved Games\Diablo II Resurrected\mods\TinaAlone\，或 %UserProfile%\Saved Games\Diablo II Resurrected\mods\TinaAlone\
+- 进入游戏后，创建一个新角色，mod 会自动在存档目录下创建 `Mods\gw\`保存游戏存档（不影响以前的存档）。
+- 附件解压后有两个 `SharedStashHardCoreV2.d2i` 和 `SharedStashSoftCoreV2.d2i` 文件，这是 7 页大箱子必备组件，复制到新创建的游戏存档目录里，否则共享箱子只有 4 页，若游戏存档目录里没有 Mods 或 Mods 文件夹下没有 `gw` 文件夹，请新建一个。路径示例：`%USERPROFILE%\Saved Games\Diablo II Resurrected\Mods\gw\`。
+
 - 将以前的存档拷贝到新建目录里即可。
   以前存档的目录为：
-  C:\Users\ (电脑用户名) \Saved Games\Diablo II Resurrected\
-   新目录为：
-  C:\Users\ (电脑用户名) \Saved Games\Diablo II Resurrected\mods\TinaAlone\
+  `%USERPROFILE%\Saved Games\Diablo II Resurrected\`
+  新目录为：
+  `%USERPROFILE%\Saved Games\Diablo II Resurrected\Mods\gw\`
 
 ## 单机参数设置
 
-用快捷方式启动，在 D2R.exe 文件上点击右键，选创建快捷方式，在桌面的快捷图标点击右键，选属性，再选快捷方式选项卡，在目标一栏加入启动参数   -mod TinaAlone -txt。
-即 "X:\Diablo II Resurrected\D2R.exe" -mod TinaAlone -txt（横杠前面是有空格的）
+用快捷方式启动，在 `D2R.exe` 文件上点击右键，选创建快捷方式，在桌面的快捷图标点击右键，选属性，再选快捷方式选项卡，在目标一栏加入启动参数 `-mod gw -txt`。
+即 `"X:\Diablo II Resurrected\D2R.exe" -mod gw -txt`（X 盘改为你实际安装游戏的盘符，横杠前面是有空格的）
 
 ## TinaAlone MOD 的主要功能：
 
@@ -36,10 +36,10 @@
 - 底材提示；
 - 添加符文编号和贴图；
 - 地图场景添加等级信息；
-- - 号以上符文、珠宝、咒符等有掉落光柱；
+- 20 号以上符文、珠宝、咒符等有掉落光柱；
 - 字体采用励字准圆简繁，英文采用经典暗黑风格英文字体。
 - 药剂和卷轴名称简写；
-- 装备浮动变量 Max；(采用本论坛大佬)
+- 装备浮动变量 Max；(采用凯恩之角论坛大佬)
 - 装备属性添加了英文缩写以便与 Max 变量进行比较。
 - 装备品质和重量，(轻，中，重)表示重量，(普，扩，精)表示品阶；
 - 带孔（含带孔无形）底材地面显示为淡粉紫色，纯无形底材地面显示为淡青色；
@@ -77,17 +77,21 @@
 
 ## DIY 设置指南
 
-- 去除凯恩发光效果。
-  将 Mods\Tina\Tina.mpq\Data\hd\character 下的 npc 文件夹删除或改名。
-- 更改字体。
-  更改字体，将 Mods\Tina\Tina.mpq\Data\hd\ui\fonts 下将“arfangxinshuh7c95b5_eb_t.ttf
-  ”改名，将“你的字体文件”重命名为“arfangxinshuh7c95b5_eb_t.ttf
-  ”。
-  恢复字体，将 Mods\Tina\Tina.mpq\Data\hd\ui\fonts 下文件删除或改名，即可恢复原版字体。
-- 删除地图进口和小站的光柱指引。
-  删除以下文件夹即可。
-  data\hd\roomtiles\
-   data\hd\objects\waypoint_portals\
+### 去除凯恩发光效果。
 
-需要捡取屏蔽物品时换成旧版模式（默认快捷键是 G 或 F5），就可以看到所有物品
-另外，设置器中有很多可以直接设置的选项，请先看设置器能否满足需求再去修改
+将 `Mods\gw\gw.mpq\Data\hd\character` 下的 npc 文件夹删除或改名。
+
+### 更改字体。
+
+将 `Mods\gw\gw.mpq\Data\hd\ui\fonts` 下将`arfangxinshuh7c95b5_eb_t.ttf`改名，将“你的字体文件”重命名为`arfangxinshuh7c95b5_eb_t.ttf`。
+
+### 恢复字体
+
+将 `Mods\gw\gw.mpq\Data\hd\ui\fonts` 下文件删除或改名，即可恢复原版字体。
+
+### 删除地图进口和小站的光柱指引。
+
+删除以下文件夹即可。
+
+- `data\hd\roomtiles\`
+- `data\hd\objects\waypoint_portals\`
