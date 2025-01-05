@@ -1,0 +1,352 @@
+[
+    {
+        "id": 2225,
+        "Key": "shrine",
+        "enUS": "shrine",
+        "zhTW": "聖壇",
+        "zhCN": "圣坛"
+    },
+    {
+        "id": 3255,
+        "Key": "Shrine",
+        "enUS": "Shrine",
+        "zhTW": "聖壇",
+        "zhCN": "圣坛"
+    },
+    {
+        "id": 3683,
+        "Key": "ShrMsg0",
+        "enUS": "You feel nothing.",
+        "zhTW": "你沒有任何感覺。",
+        "zhCN": "你没有任何感觉。"
+    },
+    {
+        "id": 3684,
+        "Key": "ShrMsg1",
+        "enUS": "You feel refreshed.",
+        "zhTW": "你感到精神百倍。",
+        "zhCN": "你感觉神清气爽。"
+    },
+    {
+        "id": 3685,
+        "Key": "ShrMsg2",
+        "enUS": "You feel healthy.",
+        "zhTW": "你感到生命力旺盛。",
+        "zhCN": "你感觉很健康。"
+    },
+    {
+        "id": 3686,
+        "Key": "ShrMsg3",
+        "enUS": "You feel recharged.",
+        "zhTW": "你感到能量充沛。",
+        "zhCN": "你感觉能量恢复了。"
+    },
+    {
+        "id": 3687,
+        "Key": "ShrMsg4",
+        "enUS": "You feel incredibly healthy.",
+        "zhTW": "你感到生命力無比旺盛。",
+        "zhCN": "你感觉非常健康。"
+    },
+    {
+        "id": 3688,
+        "Key": "ShrMsg5",
+        "enUS": "You feel infused with energy.",
+        "zhTW": "你感到體內能量滿溢。",
+        "zhCN": "你感觉被灌注了能量。"
+    },
+    {
+        "id": 3689,
+        "Key": "ShrMsg6",
+        "enUS": "Your skin hardens.",
+        "zhTW": "你的皮膚變硬了。",
+        "zhCN": "你的皮肤变硬了。"
+    },
+    {
+        "id": 3690,
+        "Key": "ShrMsg7",
+        "enUS": "You feel ready for battle.",
+        "zhTW": "你感到隨時能投身戰場。",
+        "zhCN": "你感觉自己斗志旺盛。"
+    },
+    {
+        "id": 3691,
+        "Key": "ShrMsg8",
+        "enUS": "You no longer fear fire.",
+        "zhTW": "你不再畏懼火焰了。",
+        "zhCN": "你不再惧怕火焰。"
+    },
+    {
+        "id": 3692,
+        "Key": "ShrMsg9",
+        "enUS": "You no longer fear cold.",
+        "zhTW": "你不再畏懼冰寒了。",
+        "zhCN": "你不再惧怕寒冷。"
+    },
+    {
+        "id": 3693,
+        "Key": "ShrMsg10",
+        "enUS": "You no longer fear lightning.",
+        "zhTW": "你不再畏懼電擊了。",
+        "zhCN": "你不再惧怕闪电。"
+    },
+    {
+        "id": 3694,
+        "Key": "ShrMsg11",
+        "enUS": "You no longer fear poison.",
+        "zhTW": "你不再畏懼毒素了。",
+        "zhCN": "你不再惧怕毒素。"
+    },
+    {
+        "id": 3695,
+        "Key": "ShrMsg12",
+        "enUS": "You feel more skillful.",
+        "zhTW": "你感到技巧變得熟練。",
+        "zhCN": "你感觉技艺更娴熟了。"
+    },
+    {
+        "id": 3696,
+        "Key": "ShrMsg13",
+        "enUS": "Your spiritual force recovers quickly.",
+        "zhTW": "你的精神力量快速回復。",
+        "zhCN": "你的精神力量正在快速恢复。"
+    },
+    {
+        "id": 3697,
+        "Key": "ShrMsg14",
+        "enUS": "The weight of the world seems lighter.",
+        "zhTW": "世界的重量似乎變輕了。",
+        "zhCN": "世界的重量似乎减轻了。"
+    },
+    {
+        "id": 3698,
+        "Key": "ShrMsg15",
+        "enUS": "Your experience teaches you well.",
+        "zhTW": "你的經驗讓你更上層樓。",
+        "zhCN": "你从经历中感悟到了许多。"
+    },
+    {
+        "id": 3699,
+        "Key": "ShrMsg16",
+        "enUS": "Your sense of identity is subtly changed.",
+        "zhTW": "你對自我的認知隱約改變了。",
+        "zhCN": "你的认知感发生了微妙的变化。"
+    },
+    {
+        "id": 3700,
+        "Key": "ShrMsg17",
+        "enUS": "The freedom to go home...",
+        "zhTW": "回家的自由…",
+        "zhCN": "回家的自由……"
+    },
+    {
+        "id": 3701,
+        "Key": "ShrMsg18",
+        "enUS": "A marvelous gem...",
+        "zhTW": "華貴的寶石…",
+        "zhCN": "一颗非凡的宝石……"
+    },
+    {
+        "id": 3702,
+        "Key": "ShrMsg19",
+        "enUS": "A fiery death...",
+        "zhTW": "火熱的死亡…",
+        "zhCN": "一次炽烈的死亡……"
+    },
+    {
+        "id": 3703,
+        "Key": "ShrMsg20",
+        "enUS": "Death's advocate approaches.",
+        "zhTW": "死亡的代言人逼近了。",
+        "zhCN": "死神的使者正在逼近。"
+    },
+    {
+        "id": 3704,
+        "Key": "ShrMsg21",
+        "enUS": "A circle of flame...",
+        "zhTW": "火焰之環…",
+        "zhCN": "一个烈焰之环……"
+    },
+    {
+        "id": 3705,
+        "Key": "ShrMsg22",
+        "enUS": "A circle of death...",
+        "zhTW": "死亡之環…",
+        "zhCN": "一个死亡之环……"
+    },
+    {
+        "id": 10809,
+        "Key": "ShrId0",
+        "enUS": "Null Shrine",
+        "zhTW": "空無聖壇",
+        "zhCN": "虚无圣坛"
+    },
+    {
+        "id": 10810,
+        "Key": "ShrId1",
+        "enUS": "ÿcPMax Life and Mana,Refreshs every 2 minutes\nÿc;Refilling Shrine",
+        "zhTW": "ÿcP生命和法力恢復到最大值,刷新時間2分鐘\nÿc;回復聖壇",
+        "zhCN": "ÿcP生命和法力恢复到最大值,刷新时间2分钟\nÿc;回复圣坛"
+    },
+    {
+        "id": 10811,
+        "Key": "ShrId2",
+        "enUS": "ÿcPMax Life,Refreshes every 2 minutes\nÿc1Health Shrine",
+        "zhTW": "ÿcP生命恢復到最大值,刷新時間2分鐘\nÿc1生命聖壇",
+        "zhCN": "ÿcP生命恢复到最大值,刷新时间2分钟\nÿc1生命圣坛"
+    },
+    {
+        "id": 10812,
+        "Key": "ShrId3",
+        "enUS": "ÿcPMax Mana,Refreshes every 2 minutes\nÿc3Mana Shrine",
+        "zhTW": "ÿcP法力恢復到最大值,刷新時間2分鐘\nÿc3法力聖壇",
+        "zhCN": "ÿcP法力恢复到最大值,刷新时间2分钟\nÿc3法力圣坛"
+    },
+    {
+        "id": 10813,
+        "Key": "ShrId4",
+        "enUS": "Health Exchange Shrine",
+        "zhTW": "生命交換聖壇",
+        "zhCN": "生命交换圣坛"
+    },
+    {
+        "id": 10814,
+        "Key": "ShrId5",
+        "enUS": "Mana Exchange Shrine",
+        "zhTW": "法力交換聖壇",
+        "zhCN": "法力交换圣坛"
+    },
+    {
+        "id": 10815,
+        "Key": "ShrId6",
+        "enUS": "ÿc1+100% Defence,ÿcPRefreshes every 5 mins,Lasts 96 seconds\nÿc4Armor Shrine",
+        "zhTW": "ÿc1+100% 防禦,ÿcP刷新時間5分鐘,持續時間96秒\nÿc4護甲聖壇",
+        "zhCN": "ÿc1+100% 防御,ÿcP刷新时间5分钟,持续时间96秒\nÿc4护甲圣坛"
+    },
+    {
+        "id": 10816,
+        "Key": "ShrId7",
+        "enUS": "ÿc1+200% AR, +200% Damage,ÿcPRefreshes every 5 mins,Lasts 96 seconds\nÿc4Combat Shrine",
+        "zhTW": "ÿc1+200% 準確率, +200% 傷害,ÿcP刷新時間5分鐘,持續時間96秒\nÿc4作戰聖壇",
+        "zhCN": "ÿc1+200% 准确率, +200% 伤害,ÿcP刷新时间5分钟,持续时间96秒\nÿc4作战圣坛"
+    },
+    {
+        "id": 10817,
+        "Key": "ShrId8",
+        "enUS": "ÿc1+75% Fire Resist,ÿcPRefreshes every 5 mins, Lasts 144 seconds\nÿc1Resist Fire Shrine",
+        "zhTW": "ÿc1+75% 抗火,ÿcP刷新時間5分鐘,持續時間144秒\nÿc1抗火聖壇",
+        "zhCN": "ÿc1+75% 抗火,ÿcP刷新时间5分钟,持续时间144秒\nÿc1抗火圣坛"
+    },
+    {
+        "id": 10818,
+        "Key": "ShrId9",
+        "enUS": "ÿc3+75% Cold Resist,ÿcPRefreshes every 5 mins,Lasts 144 seconds\nÿc3Resist Cold Shrine",
+        "zhTW": "ÿc3+75% 抗寒,ÿcP刷新時間5分鐘,持續時間144秒\nÿc3抗寒聖壇",
+        "zhCN": "ÿc3+75% 抗寒,ÿcP刷新时间5分钟,持续时间144秒\nÿc3抗寒圣坛"
+    },
+    {
+        "id": 10819,
+        "Key": "ShrId10",
+        "enUS": "ÿc9+75% Lightning Resist,ÿcPRefreshes every 5 mins,Lasts 144 seconds\nÿc9Resist Lightning Shrine",
+        "zhTW": "ÿc9+75% 抗電,ÿcP刷新時間5分鐘,持續時間144秒\nÿc9抗電聖壇",
+        "zhCN": "ÿc9+75% 抗电,ÿcP刷新时间5分钟,持续时间144秒\nÿc9抗电圣坛"
+    },
+    {
+        "id": 10820,
+        "Key": "ShrId11",
+        "enUS": "ÿc:+75% Poison Resist,ÿcPRefreshes every 5 mins,Lasts 144 seconds\nÿc:Resist Poison Shrine",
+        "zhTW": "ÿc:+75% 抗毒,ÿcP刷新時間5分鐘,持續時間144秒\nÿc:抗毒聖壇",
+        "zhCN": "ÿc:+75% 抗毒,ÿcP刷新时间5分钟,持续时间144秒\nÿc:抗毒圣坛"
+    },
+    {
+        "id": 10821,
+        "Key": "ShrId12",
+        "enUS": "ÿc2+2 All Skills,ÿcPRefreshes every 5 mins,Lasts 96 seconds\nÿc8Skill Shrine",
+        "zhTW": "ÿc2+2 所有技能,ÿcP刷新時間5分鐘,持續時間96秒\nÿc8技能聖壇",
+        "zhCN": "ÿc2+2 所有技能,ÿcP刷新时间5分钟,持续时间96秒\nÿc8技能圣坛"
+    },
+    {
+        "id": 10822,
+        "Key": "ShrId13",
+        "enUS": "ÿc2+400% Mana Regeneration,ÿcPRefreshes every 5 mins\nÿc2Mana Recharge Shrine",
+        "zhTW": "ÿc2+400% 法力重生,ÿcP刷新時間5分鐘,持續時間96秒\nÿc2法力恢復聖壇",
+        "zhCN": "ÿc2+400% 法力重生,ÿcP刷新时间5分钟,持续时间96秒\nÿc2法力恢复圣坛"
+    },
+    {
+        "id": 10823,
+        "Key": "ShrId14",
+        "enUS": "ÿcTInfinite Stamina,ÿcPRefreshes every 5 mins,Lasts 192 secs\nÿc9Stamina Shrine",
+        "zhTW": "ÿcT無限精力,ÿcP刷新時間5分鐘,持續時間192秒\nÿc9精力聖壇",
+        "zhCN": "ÿcT无限精力,ÿcP刷新时间5分钟,持续时间192秒\nÿc9精力圣坛"
+    },
+    {
+        "id": 10824,
+        "Key": "ShrId15",
+        "enUS": "ÿc2Increase your Experience gain by 50% for 144 secs,does not refresh\nÿc2Experience Shrine",
+        "zhTW": "ÿc2經驗值獲取提升 50%,ÿcP不會刷新,持續時間144秒\nÿc2經驗聖壇",
+        "zhCN": "ÿc2经验值获取提升 50%,ÿcP不会刷新,持续时间144秒\nÿc2经验圣坛"
+    },
+    {
+        "id": 10825,
+        "Key": "ShrId16",
+        "enUS": "Enirhs Shrine",
+        "zhTW": "壇聖聖壇",
+        "zhCN": "颠倒圣坛"
+    },
+    {
+        "id": 10826,
+        "Key": "ShrId17",
+        "enUS": "ÿcPGenerates a town portal,does not refresh\nÿcTPortal Shrine",
+        "zhTW": "ÿcP產生一個回城的傳送門,不會刷新\nÿcT傳送聖壇",
+        "zhCN": "ÿcP产生一个回城的传送门,不会刷新\nÿcT传送圣坛"
+    },
+    {
+        "id": 10827,
+        "Key": "ShrId18",
+        "enUS": "ÿc2Upgrade a random gem in your inventory for 1 level,if there is no gem,then generate a random lowest gem,does not refresh\nÿc2Gem Shrine",
+        "zhTW": "ÿc2隨機把你物品欄中的一顆寶石提升一級, ÿc1如果你沒有寶石, 則會給你一個最低級的寶石,不會刷新\nÿc2寶石聖壇",
+        "zhCN": "ÿc2随机把你物品栏中的一颗宝石提升一级, ÿc1如果你没有宝石, 则会给你一个最低级的宝石,不会刷新\nÿc2宝石圣坛"
+    },
+    {
+        "id": 10828,
+        "Key": "ShrId19",
+        "enUS": "ÿcPAll enemies and players lose 50% Life,will not refresh\nÿc8Fire Shrine",
+        "zhTW": "ÿcP所有怪物和玩家損失 50% 生命值,不會刷新\nÿc8火焰聖壇",
+        "zhCN": "ÿcP所有怪物和玩家损失 50% 生命值,不会刷新\nÿc8火焰圣坛"
+    },
+    {
+        "id": 10829,
+        "Key": "ShrId20",
+        "enUS": "ÿcPOne monster around you will turn into champion or unique,does not refresh\nÿcUMonster Shrine",
+        "zhTW": "ÿcP最近的一個怪物變成黃金或藍色怪物,不會刷新\nÿcU怪物聖壇",
+        "zhCN": "ÿcP最近的一个怪物变成黄金或蓝色怪物,不会刷新\nÿcU怪物圣坛"
+    },
+    {
+        "id": 10830,
+        "Key": "ShrId21",
+        "enUS": "ÿcPGives player 5-10 explosives,and causes 5 explosives around the shrine,will not refresh\nÿc8Exploding Shrine",
+        "zhTW": "ÿcP給予玩家5-10個爆炸藥劑,並且有5個爆炸藥劑同時在周圍爆炸,不會刷新\nÿc8爆炸聖壇",
+        "zhCN": "ÿcP给予玩家5-10个爆炸药剂,并且有5个爆炸药剂同时在周围爆炸,不会刷新\nÿc8爆炸圣坛"
+    },
+    {
+        "id": 10831,
+        "Key": "ShrId22",
+        "enUS": "ÿcPGives player 5-10 poisonous gases,and generate poisonous gas around the shrine,will not refresh\nÿc:Poison Shrine",
+        "zhTW": "ÿcP給予玩家 5-10 個窒息瓦斯藥劑,並且在周圍產生毒霧,不會刷新\nÿc:劇毒聖壇",
+        "zhCN": "ÿcP给予玩家 5-10 个窒息瓦斯药剂,并且在周围产生毒雾,不会刷新\nÿc:剧毒圣坛"
+    },
+    {
+        "id": 22592,
+        "Key": "Shrine2wilderness",
+        "enUS": "Shrine",
+        "zhTW": "聖壇",
+        "zhCN": "圣坛"
+    },
+    {
+        "id": 22593,
+        "Key": "Shrine3wilderness",
+        "enUS": "Shrine",
+        "zhTW": "聖壇",
+        "zhCN": "圣坛"
+    }
+]

@@ -1,0 +1,1717 @@
+[
+    {
+        "id": 10902,
+        "Key": "r16",
+        "enUS": "ÿc8Io Rune#16ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+瑕疵黃寶石]\nÿc8符文：埃歐Io#16",
+        "zhCN": "ÿc5[x3+有瑕疵的黄宝石]\nÿc8艾欧符文Io#16"
+    },
+    {
+        "id": 10903,
+        "Key": "r16L",
+        "enUS": "Io#16",
+        "zhTW": "埃歐#16",
+        "zhCN": "艾欧#16"
+    },
+    {
+        "id": 10904,
+        "Key": "r13",
+        "enUS": "ÿc:IAS only available on weapons\nÿc8 Shael Rune#13",
+        "zhTW": "ÿc5[x3+碎裂紅寶石]\nÿc8符文：夏Shael#13",
+        "zhCN": "ÿc5[x3+碎裂的红宝石]\nÿc8沙伊符文Shael#13"
+    },
+    {
+        "id": 10905,
+        "Key": "r13L",
+        "enUS": "Shael#13",
+        "zhTW": "夏#13",
+        "zhCN": "沙伊#13"
+    },
+    {
+        "id": 10906,
+        "Key": "r31",
+        "enUS": "ÿc:The most valuable rune\nÿc8Jah Rune#31ÿc2!!!ÿc8",
+        "zhTW": "ÿc5[x2+無瑕紅寶石]\nÿc8符文：喬Jah#31",
+        "zhCN": "ÿc5[x2+无瑕的红宝石]\nÿc8扎哈符文Jah#31"
+    },
+    {
+        "id": 10907,
+        "Key": "r31L",
+        "enUS": "Jah#31",
+        "zhTW": "喬#31",
+        "zhCN": "扎哈#31"
+    },
+    {
+        "id": 10910,
+        "Key": "Runeword22",
+        "enUS": "Delirium",
+        "zhTW": "Delirium\n精神錯亂",
+        "zhCN": "Delirium\n迷狂"
+    },
+    {
+        "id": 20440,
+        "Key": "r33",
+        "enUS": "ÿc8Zod Rune#33ÿc2!!!ÿc8",
+        "zhTW": "符文：薩德Zod#33",
+        "zhCN": "佐德符文Zod#33"
+    },
+    {
+        "id": 20441,
+        "Key": "r32",
+        "enUS": "ÿc:For Pride, Mist, Source of CBF or Zod recipe\nÿc8Cham Rune#32ÿc2!!!ÿc8",
+        "zhTW": "ÿc5[x2+無瑕綠寶石]\nÿc8符文：查姆Cham#32",
+        "zhCN": "ÿc5[x2+无瑕的绿宝石]\nÿc8查姆符文Cham#32"
+    },
+    {
+        "id": 20443,
+        "Key": "r30",
+        "enUS": "ÿc:Very versatile rune, often used as trading token\nÿc8Ber Rune#30ÿc2!!!ÿc8",
+        "zhTW": "ÿc5[x2+無瑕藍寶石]\nÿc8符文：貝Ber#30",
+        "zhCN": "ÿc5[x2+无瑕的蓝宝石]\nÿc8贝符文Ber#30"
+    },
+    {
+        "id": 20444,
+        "Key": "r29",
+        "enUS": "ÿc8Sur Rune#29ÿc2!!!ÿc8",
+        "zhTW": "ÿc5[x2+無瑕紫寶石]\nÿc8符文：瑟Sur#29",
+        "zhCN": "ÿc5[x2+无瑕的紫宝石]\nÿc8瑟符文Sur#29"
+    },
+    {
+        "id": 20445,
+        "Key": "r28",
+        "enUS": "ÿc:A must for Fortitude\nÿc8Lo Rune#28ÿc2!!!ÿc8",
+        "zhTW": "ÿc5[x2+無瑕黃寶石]\nÿc8符文：羅Lo#28",
+        "zhCN": "ÿc5[x2+无瑕的黄宝石]\nÿc8罗符文Lo#28"
+    },
+    {
+        "id": 20446,
+        "Key": "r27",
+        "enUS": "ÿc8Ohm Rune#27ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+鑽石]\nÿc8符文：歐姆Ohm#27",
+        "zhCN": "ÿc5[x2+钻石]\nÿc8欧姆符文Ohm#27"
+    },
+    {
+        "id": 20447,
+        "Key": "r26",
+        "enUS": "ÿc:Versatile one for HOTO\nÿc8Vex Rune#26ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+綠寶石]\nÿc8符文：伐克斯Vex#26",
+        "zhCN": "ÿc5[x2+绿宝石]\nÿc8伐克斯符文Vex#26"
+    },
+    {
+        "id": 20448,
+        "Key": "r25",
+        "enUS": "ÿc:The highest you can get from mephistos soulstone\nÿc8Gul Rune#25ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+紅寶石]\nÿc8符文：古爾Gul#25",
+        "zhCN": "ÿc5[x2+红宝石]\nÿc8古尔符文Gul#25"
+    },
+    {
+        "id": 20449,
+        "Key": "r24",
+        "enUS": "ÿc8Ist Rune#24ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+藍寶石]\nÿc8符文：伊司特Ist#24",
+        "zhCN": "ÿc5[x2+蓝宝石]\nÿc8伊司特符文Ist#24"
+    },
+    {
+        "id": 20450,
+        "Key": "r23",
+        "enUS": "ÿc8Mal Rune#23ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+紫寶石]\nÿc8符文：馬爾Mal#23",
+        "zhCN": "ÿc5[x2+紫宝石]\nÿc8玛尔符文Mal#23"
+    },
+    {
+        "id": 20451,
+        "Key": "r22",
+        "enUS": "ÿc8Um Rune#22ÿc2!!ÿc8",
+        "zhTW": "ÿc5[x2+黃寶石]\nÿc8符文：烏姆Um#22",
+        "zhCN": "ÿc5[x2+黄宝石]\nÿc8乌姆符文Um#22"
+    },
+    {
+        "id": 20452,
+        "Key": "r21",
+        "enUS": "ÿc8Pul Rune#21ÿc2!ÿc8",
+        "zhTW": "ÿc5[x2+瑕疵鑽石]\nÿc8符文：普爾Pul#21",
+        "zhCN": "ÿc5[x2+有瑕疵的钻石]\nÿc8普尔符文Pul#21"
+    },
+    {
+        "id": 20453,
+        "Key": "r20",
+        "enUS": "ÿc8Lem Rune#20ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+瑕疵綠寶石]\nÿc8符文：藍姆Lem#20",
+        "zhCN": "ÿc5[x3+有瑕疵的绿宝石]\nÿc8兰姆符文Lem#20"
+    },
+    {
+        "id": 20454,
+        "Key": "r19",
+        "enUS": "ÿc8Fal Rune#19ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+瑕疵紅寶石]\nÿc8符文：法爾Fal#19",
+        "zhCN": "ÿc5[x3+有瑕疵的红宝石]\nÿc8法尔符文Fal#19"
+    },
+    {
+        "id": 20455,
+        "Key": "r18",
+        "enUS": "ÿc:Armor upgrade recipe with a Lem Rune\nÿc8Ko Rune#18ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+瑕疵藍寶石]\nÿc8符文：科Ko#18",
+        "zhCN": "ÿc5[x3+有瑕疵的蓝宝石]\nÿc8科符文Ko#18"
+    },
+    {
+        "id": 20456,
+        "Key": "r17",
+        "enUS": "ÿc8Lum Rune#17ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+瑕疵紫寶石]\nÿc8符文：盧姆Lum#17",
+        "zhCN": "ÿc5[x3+有瑕疵的紫宝石]\nÿc8卢姆符文Lum#17"
+    },
+    {
+        "id": 20458,
+        "Key": "r15",
+        "enUS": "ÿc:(runes will be destroyed)\nHel Rune+Town Portal Scroll for unsocket recipe\nÿc8Hel Rune#15ÿc2!ÿc8",
+        "zhTW": "ÿc5[x3+碎裂鑽石]\nÿc8符文：海爾Hel#15",
+        "zhCN": "ÿc5[x3+碎裂的钻石]\nÿc8海尔符文Hel#15"
+    },
+    {
+        "id": 20459,
+        "Key": "r14",
+        "enUS": "ÿc8Dol Rune#14",
+        "zhTW": "ÿc5[x3+碎裂綠寶石]\nÿc8符文：多爾Dol#14",
+        "zhCN": "ÿc5[x3+碎裂的绿宝石]\nÿc8多尔符文Dol#14"
+    },
+    {
+        "id": 20461,
+        "Key": "r12",
+        "enUS": "ÿc:For Fortitude, Insight and crafted rings\nÿc8Sol Rune#12",
+        "zhTW": "ÿc5[x3+碎裂藍寶石]\nÿc8符文：索爾Sol#12",
+        "zhCN": "ÿc5[x3+碎裂的蓝宝石]\nÿc8索尔符文Sol#12"
+    },
+    {
+        "id": 20462,
+        "Key": "r11",
+        "enUS": "ÿc:For Spirit and socketing weapons\nÿc8Amn Rune#11",
+        "zhTW": "ÿc5[x3+碎裂紫寶石]\nÿc8符文：安姆Amn#11",
+        "zhCN": "ÿc5[x3+碎裂的紫宝石]\nÿc8安姆符文Amn#11"
+    },
+    {
+        "id": 20463,
+        "Key": "r10",
+        "enUS": "ÿc8Thul Rune#10",
+        "zhTW": "ÿc5[x3+碎裂黃寶石]\nÿc8符文：書爾Thul#10",
+        "zhCN": "ÿc5[x3+碎裂的黄宝石]\nÿc8图尔符文Thul#10"
+    },
+    {
+        "id": 20464,
+        "Key": "r09",
+        "enUS": "ÿc8Ort Rune#9",
+        "zhTW": "符文：歐特Ort#09",
+        "zhCN": "欧特符文Ort#09"
+    },
+    {
+        "id": 20465,
+        "Key": "r08",
+        "enUS": "ÿc:Most valuable low rune, for crafted amulets\nÿc8Ral Rune#8",
+        "zhTW": "符文：拉爾Ral#08",
+        "zhCN": "拉尔符文Ral#08"
+    },
+    {
+        "id": 20466,
+        "Key": "r07",
+        "enUS": "ÿc8Tal Rune#7",
+        "zhTW": "符文：塔爾Tal#07",
+        "zhCN": "塔尔符文Tal#07"
+    },
+    {
+        "id": 20467,
+        "Key": "r06",
+        "enUS": "ÿc8Ith Rune#6",
+        "zhTW": "符文：伊司Ith#06",
+        "zhCN": "伊司符文Ith#06"
+    },
+    {
+        "id": 20468,
+        "Key": "r05",
+        "enUS": "ÿc8Eth Rune#5",
+        "zhTW": "符文：愛斯Eth#05",
+        "zhCN": "艾斯符文Eth#05"
+    },
+    {
+        "id": 20469,
+        "Key": "r04",
+        "enUS": "ÿc8Nef Rune#4",
+        "zhTW": "符文：那夫Nef#04",
+        "zhCN": "奈夫符文Nef#04"
+    },
+    {
+        "id": 20470,
+        "Key": "r03",
+        "enUS": "ÿc8Tir Rune#3",
+        "zhTW": "符文：特爾Tir#03",
+        "zhCN": "提尔符文Tir#03"
+    },
+    {
+        "id": 20471,
+        "Key": "r02",
+        "enUS": "ÿc8Eld Rune#2",
+        "zhTW": "符文：艾德Eld#02",
+        "zhCN": "艾德符文Eld#02"
+    },
+    {
+        "id": 20472,
+        "Key": "r01",
+        "enUS": "ÿc8El Rune#1",
+        "zhTW": "符文：艾爾El#01",
+        "zhCN": "艾尔符文El#01"
+    },
+    {
+        "id": 20473,
+        "Key": "r33L",
+        "enUS": "Zod#33",
+        "zhTW": "薩德#33",
+        "zhCN": "佐德#33"
+    },
+    {
+        "id": 20474,
+        "Key": "r32L",
+        "enUS": "Cham#32",
+        "zhTW": "查姆#32",
+        "zhCN": "查姆#32"
+    },
+    {
+        "id": 20476,
+        "Key": "r30L",
+        "enUS": "Ber#30",
+        "zhTW": "貝#30",
+        "zhCN": "贝#30"
+    },
+    {
+        "id": 20477,
+        "Key": "r29L",
+        "enUS": "Sur#29",
+        "zhTW": "瑟#29",
+        "zhCN": "瑟#29"
+    },
+    {
+        "id": 20478,
+        "Key": "r28L",
+        "enUS": "Lo#28",
+        "zhTW": "羅#28",
+        "zhCN": "罗#28"
+    },
+    {
+        "id": 20479,
+        "Key": "r27L",
+        "enUS": "Ohm#27",
+        "zhTW": "歐姆#27",
+        "zhCN": "欧姆#27"
+    },
+    {
+        "id": 20480,
+        "Key": "r26L",
+        "enUS": "Vex#26",
+        "zhTW": "伐克斯#26",
+        "zhCN": "伐克斯#26"
+    },
+    {
+        "id": 20481,
+        "Key": "r25L",
+        "enUS": "Gul#25",
+        "zhTW": "古爾#25",
+        "zhCN": "古尔#25"
+    },
+    {
+        "id": 20482,
+        "Key": "r24L",
+        "enUS": "Ist#24",
+        "zhTW": "伊司特#24",
+        "zhCN": "伊司特#24"
+    },
+    {
+        "id": 20483,
+        "Key": "r23L",
+        "enUS": "Mal#23",
+        "zhTW": "馬爾#23",
+        "zhCN": "玛尔#23"
+    },
+    {
+        "id": 20484,
+        "Key": "r22L",
+        "enUS": "Um#22",
+        "zhTW": "烏姆#22",
+        "zhCN": "乌姆#22"
+    },
+    {
+        "id": 20485,
+        "Key": "r21L",
+        "enUS": "Pul#21",
+        "zhTW": "普爾#21",
+        "zhCN": "普尔#21"
+    },
+    {
+        "id": 20486,
+        "Key": "r20L",
+        "enUS": "Lem#20",
+        "zhTW": "藍姆#20",
+        "zhCN": "兰姆#20"
+    },
+    {
+        "id": 20487,
+        "Key": "r19L",
+        "enUS": "Fal#19",
+        "zhTW": "法爾#19",
+        "zhCN": "法尔#19"
+    },
+    {
+        "id": 20488,
+        "Key": "r18L",
+        "enUS": "Ko#18",
+        "zhTW": "科#18",
+        "zhCN": "科#18"
+    },
+    {
+        "id": 20489,
+        "Key": "r17L",
+        "enUS": "Lum#17",
+        "zhTW": "盧姆#17",
+        "zhCN": "卢姆#17"
+    },
+    {
+        "id": 20491,
+        "Key": "r15L",
+        "enUS": "Hel#15",
+        "zhTW": "海爾#15",
+        "zhCN": "海尔#15"
+    },
+    {
+        "id": 20492,
+        "Key": "r14L",
+        "enUS": "Dol#14",
+        "zhTW": "多爾#14",
+        "zhCN": "多尔#14"
+    },
+    {
+        "id": 20494,
+        "Key": "r12L",
+        "enUS": "Sol#12",
+        "zhTW": "索爾#12",
+        "zhCN": "索尔#12"
+    },
+    {
+        "id": 20495,
+        "Key": "r11L",
+        "enUS": "Amn#11",
+        "zhTW": "安姆#11",
+        "zhCN": "安姆#11"
+    },
+    {
+        "id": 20496,
+        "Key": "r10L",
+        "enUS": "Thul#10",
+        "zhTW": "書爾#10",
+        "zhCN": "图尔#10"
+    },
+    {
+        "id": 20497,
+        "Key": "r09L",
+        "enUS": "Ort#9",
+        "zhTW": "歐特#09",
+        "zhCN": "欧特#09"
+    },
+    {
+        "id": 20498,
+        "Key": "r08L",
+        "enUS": "Ral#8",
+        "zhTW": "拉爾#08",
+        "zhCN": "拉尔#08"
+    },
+    {
+        "id": 20499,
+        "Key": "r07L",
+        "enUS": "Tal#7",
+        "zhTW": "塔爾#07",
+        "zhCN": "塔尔#07"
+    },
+    {
+        "id": 20500,
+        "Key": "r06L",
+        "enUS": "Ith#6",
+        "zhTW": "伊司#06",
+        "zhCN": "伊司#06"
+    },
+    {
+        "id": 20501,
+        "Key": "r05L",
+        "enUS": "Eth#5",
+        "zhTW": "愛斯#05",
+        "zhCN": "艾斯#05"
+    },
+    {
+        "id": 20502,
+        "Key": "r04L",
+        "enUS": "Nef#4",
+        "zhTW": "那夫#04",
+        "zhCN": "奈夫#04"
+    },
+    {
+        "id": 20503,
+        "Key": "r03L",
+        "enUS": "Tir#3",
+        "zhTW": "特爾#03",
+        "zhCN": "提尔#03"
+    },
+    {
+        "id": 20504,
+        "Key": "r02L",
+        "enUS": "Eld#2",
+        "zhTW": "艾德#02",
+        "zhCN": "艾德#02"
+    },
+    {
+        "id": 20505,
+        "Key": "r01L",
+        "enUS": "El#1",
+        "zhTW": "艾爾#01",
+        "zhCN": "艾尔#01"
+    },
+    {
+        "id": 20506,
+        "Key": "RuneQuote",
+        "enUS": "'",
+        "zhTW": "'",
+        "zhCN": "'"
+    },
+    {
+        "id": 20507,
+        "Key": "Runeword1",
+        "enUS": "ÿc:Good choice for leveling\nÿc4Ancients' Pledge",
+        "zhTW": "ÿc:開荒常用，A5任務能給一套符文\nÿc4Ancients' Pledge\n先祖之契",
+        "zhCN": "ÿc:开荒常用，A5任务能给一套符文\nÿc4Ancients' Pledge\n先祖之誓"
+    },
+    {
+        "id": 20508,
+        "Key": "Runeword2",
+        "enUS": "Armageddon",
+        "zhTW": "Armageddon\n毀天滅地",
+        "zhCN": "Armageddon\n末日"
+    },
+    {
+        "id": 20509,
+        "Key": "Runeword3",
+        "enUS": "Authority",
+        "zhTW": "Authority\n權威",
+        "zhCN": "Authority\n权威"
+    },
+    {
+        "id": 20510,
+        "Key": "Runeword4",
+        "enUS": "ÿc:Fanaticism Aura for Summon Necro or Martial Arts Assasin\nÿc1[MAX:270ED/40STR]\nÿc4Beast",
+        "zhTW": "ÿc:狂熱光環，純招及武學刺常用，五環死靈其一\nÿc1[MAX:270ED/40STR]\nÿc4Beast\n野獸",
+        "zhCN": "ÿc:狂热光环，纯招及武学刺常用，五环死灵其一\nÿc1[MAX:270ED/40STR]\nÿc4Beast\n野兽"
+    },
+    {
+        "id": 20511,
+        "Key": "Runeword5",
+        "enUS": "Beauty",
+        "zhTW": "Beauty\n美貌",
+        "zhCN": "Beauty\n美丽"
+    },
+    {
+        "id": 20512,
+        "Key": "Runeword6",
+        "enUS": "ÿc4Black",
+        "zhTW": "ÿc:平民杀6Boss利器，物美價廉\nÿc4Black\n黑錘",
+        "zhCN": "ÿc:平民殺6Boss利器，物美价廉\nÿc4Black\n黑色"
+    },
+    {
+        "id": 20513,
+        "Key": "Runeword7",
+        "enUS": "Blood",
+        "zhTW": "Blood\n鮮血",
+        "zhCN": "Blood\n鲜血"
+    },
+    {
+        "id": 20514,
+        "Key": "Runeword8",
+        "enUS": "ÿc1[MAX:150Mana]\nÿc4Bone",
+        "zhTW": "ÿc:屬性不好，造價還貴\nÿc1[MAX:150Mana]\nÿc4Bone\n骸骨",
+        "zhCN": "ÿc:属性不好，造价还贵\nÿc1[MAX:150Mana]\nÿc4Bone\n白骨"
+    },
+    {
+        "id": 20515,
+        "Key": "Runeword9",
+        "enUS": "ÿc1[MAX:21Thorns/50PD]\nÿc4Bramble",
+        "zhTW": "ÿc:毒系可用，不如tp甲有用，土豪玩物\nÿc1[MAX:21荊棘/50PD]\nÿc4Bramble\n刺藤",
+        "zhCN": "ÿc:毒系可用，不如tp甲有用，土豪玩物\nÿc1[MAX:21荊棘/50PD]\nÿc4Bramble\n荆棘"
+    },
+    {
+        "id": 20516,
+        "Key": "Runeword10",
+        "enUS": "ÿc1[MAX:340ED/330DTD]\nÿc4Brand",
+        "zhTW": "ÿc:受弓，物理系副手挨打破免，弓馬娛樂用\nÿc1[MAX:340ED/330DTD]\nÿc4Brand\n烙印",
+        "zhCN": "ÿc:受弓，物理系副手挨打破免，弓马娱乐用\nÿc1[MAX:340ED/330DTD]\nÿc4Brand\n烙印"
+    },
+    {
+        "id": 20517,
+        "Key": "Runeword11",
+        "enUS": "ÿc1[MAX:400ED/15LL]\nÿc4Breath of the Dying",
+        "zhTW": "ÿc:冷兵器之王，打錢蠻子米山用，記得用無形\nÿc1[MAX:400ED/15LL]\nÿc4Breath of the Dying\n死亡呼吸",
+        "zhCN": "ÿc:冷兵器之王，打钱蛮子米山用，记得用无形\nÿc1[MAX:400ED/15LL]\nÿc4Breath of the Dying\n濒死之息"
+    },
+    {
+        "id": 20518,
+        "Key": "Runeword12",
+        "enUS": "Broken Promise",
+        "zhTW": "Broken Promise\n破碎誓言",
+        "zhCN": "Broken Promise\n破碎誓言"
+    },
+    {
+        "id": 20519,
+        "Key": "Runeword13",
+        "enUS": "ÿc:Used in almost every build, 6BO makes it essential\nÿc1[MAX:290ED/6BO/6BC/4WC]\nÿc4Call to Arms",
+        "zhTW": "ÿc:俗稱CTA，6BO為品質關鍵，變量浮動大\nÿc1[MAX:290ED/6/6/4]\nÿc4Call to Arms\n戰爭召喚",
+        "zhCN": "ÿc:俗称CTA，6BO为品质关键，变量浮动大\nÿc1[MAX:290ED/6/6/4]\nÿc4Call to Arms\n战争召唤"
+    },
+    {
+        "id": 20520,
+        "Key": "Runeword14",
+        "enUS": "ÿc4Chains of Honor",
+        "zhTW": "ÿc:屬性華麗，不需要TP的用\nÿc4Chains of Honor\n榮耀之鍊",
+        "zhCN": "ÿc:属性华丽，不需要TP的用\nÿc4Chains of Honor\n荣耀之链"
+    },
+    {
+        "id": 20521,
+        "Key": "Runeword15",
+        "enUS": "Chance",
+        "zhTW": "Chance\n機會",
+        "zhCN": "Chance\n机遇"
+    },
+    {
+        "id": 20522,
+        "Key": "Runeword16",
+        "enUS": "ÿc1[MAX:340ED]\nÿc4Chaos",
+        "zhTW": "ÿc:武藝超羣，WWASN必備PK裝\nÿc1[MAX:340ED]\nÿc4Chaos\n混沌",
+        "zhCN": "ÿc:武艺超群，WWASN必备PK装\nÿc1[MAX:340ED]\nÿc4Chaos\n混沌"
+    },
+    {
+        "id": 20523,
+        "Key": "Runeword17",
+        "enUS": "ÿc:For Lightning Sorcs\nÿc1[MAX:220ED/11MA]\nÿc4Crescent Moon",
+        "zhTW": "ÿc:平民電法常用，不能破免，對高電抗怪物增傷效果明顯\nÿc1[MAX:220ED/11MA]\nÿc4Crescent Moon\n新月",
+        "zhCN": "ÿc:平民电法常用，不能破免，对高电抗怪物增伤效果明显\nÿc1[MAX:220ED/11MA]\nÿc4Crescent Moon\n新月"
+    },
+    {
+        "id": 20524,
+        "Key": "Runeword18",
+        "enUS": "Darkness",
+        "zhTW": "Darkness\n黑暗",
+        "zhCN": "Darkness\n黑暗"
+    },
+    {
+        "id": 20525,
+        "Key": "Runeword19",
+        "enUS": "Daylight",
+        "zhTW": "Daylight\n白晝",
+        "zhCN": "Daylight\n白昼"
+    },
+    {
+        "id": 20526,
+        "Key": "Runeword20",
+        "enUS": "ÿc1[MAX:385ED]\nÿc4Death",
+        "zhTW": "ÿc:傷害高但無攻速，雙熱或野蠻人副手用\nÿc1[MAX:385ED]\nÿc4Death\n死神",
+        "zhCN": "ÿc:伤害高但无攻速，双热或野蛮人副手用\nÿc1[MAX:385ED]\nÿc4Death\n死亡"
+    },
+    {
+        "id": 20527,
+        "Key": "Runeword21",
+        "enUS": "Deception",
+        "zhTW": "Deception\n欺暪",
+        "zhCN": "Deception\n欺骗"
+    },
+    {
+        "id": 20529,
+        "Key": "Runeword23",
+        "enUS": "Desire",
+        "zhTW": "Desire\n渴望",
+        "zhCN": "Desire\n欲望"
+    },
+    {
+        "id": 20530,
+        "Key": "Runeword24",
+        "enUS": "Despair",
+        "zhTW": "Despair\n絕望",
+        "zhCN": "Despair\n绝望"
+    },
+    {
+        "id": 20531,
+        "Key": "Runeword25",
+        "enUS": "ÿc4Destruction",
+        "zhTW": "ÿc:屬性華麗但不如悔恨，因包含最貴三符文而備受冷落\nÿc4Destruction\n毀滅",
+        "zhCN": "ÿc:属性华丽但不如悔恨，因包含最贵三符文而备受冷落\nÿc4Destruction\n毁灭"
+    },
+    {
+        "id": 20532,
+        "Key": "Runeword26",
+        "enUS": "ÿc1[MAX:370ED/-60CR]\nÿc4Doom",
+        "zhTW": "ÿc:風德常用\nÿc1[MAX:370ED/-60CR]\nÿc4Doom\n末日",
+        "zhCN": "ÿc:风德常用\nÿc1[MAX:370ED/-60CR]\nÿc4Doom\n厄运"
+    },
+    {
+        "id": 20533,
+        "Key": "Runeword27",
+        "enUS": "ÿc1[MAX:5ATTR]\nÿc4Dragon",
+        "zhTW": "ÿc:聖騎降臨暗黑，多搭配正義之手橫掃邪惡\nÿc1[MAX:5ATTR]\nÿc4Dragon\n飛龍",
+        "zhCN": "ÿc:圣骑降临暗黑，多搭配正义之手扫除邪恶\nÿc1[MAX:5ATTR]\nÿc4Dragon\n巨龙"
+    },
+    {
+        "id": 20534,
+        "Key": "Runeword28",
+        "enUS": "Dread",
+        "zhTW": "Dread\n恐懼",
+        "zhCN": "Dread\n惊惧"
+    },
+    {
+        "id": 20535,
+        "Key": "Runeword29",
+        "enUS": "ÿc:Essential for Dream Paladin and Zeal Sorc\nÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc4Dream",
+        "zhTW": "ÿc:雙夢法師和聖騎的核心裝備\nÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc4Dream\n夢境",
+        "zhCN": "ÿc:双梦法师和圣骑的核心装备\nÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc4Dream\n梦境"
+    },
+    {
+        "id": 20536,
+        "Key": "Runeword30",
+        "enUS": "ÿc1[MAX:20EDmg/200EDef]\nÿc4Duress",
+        "zhTW": "ÿc:符文之語唯一CB甲，殺BOSS用，窮人米山可穿它\nÿc1[MAX:20EDmg/200EDef]\nÿc4Duress\n強制",
+        "zhCN": "ÿc:符文之语唯一CB甲，杀BOSS用，穷人米山可穿它\nÿc1[MAX:20EDmg/200EDef]\nÿc4Duress\n强压"
+    },
+    {
+        "id": 20537,
+        "Key": "Runeword31",
+        "enUS": "ÿc:A must for gambling\nÿc1[MAX:380DTD/10ATTR]\nÿc4Edge",
+        "zhTW": "ÿc:俗稱賭博弓，除UGC外唯一減商人價格的賭博裝備\nÿc1[MAX:380DTD/10ATTR]\nÿc4Edge\n邊緣",
+        "zhCN": "ÿc:俗称赌博弓，除UGC外唯一减商人价格的赌博装备\nÿc1[MAX:380DTD/10ATTR]\nÿc4Edge\n锐锋"
+    },
+    {
+        "id": 20538,
+        "Key": "Runeword32",
+        "enUS": "Elation",
+        "zhTW": "Elation\n興高彩烈",
+        "zhCN": "Elation\n欢欣"
+    },
+    {
+        "id": 20539,
+        "Key": "Runeword33",
+        "enUS": "ÿc1[MAX:775DEF]\nÿc4Enigma",
+        "zhTW": "ÿc:脫貧甲，與無限一起成爲土豪標誌\nÿc1[MAX:775DEF]\nÿc4Enigma\n謎團",
+        "zhCN": "ÿc:脱贫甲，与无限一起成为土豪标志\nÿc1[MAX:775DEF]\nÿc4Enigma\n谜团"
+    },
+    {
+        "id": 20540,
+        "Key": "Runeword34",
+        "enUS": "Enlightenment",
+        "zhTW": "Enlightenment\n教化",
+        "zhCN": "Enlightenment\n启迪"
+    },
+    {
+        "id": 20541,
+        "Key": "Runeword35",
+        "enUS": "Envy",
+        "zhTW": "Envy\n羨慕",
+        "zhCN": "Envy\n羡慕"
+    },
+    {
+        "id": 20542,
+        "Key": "Runeword36",
+        "enUS": "ÿc1[MAX:310ED]\nÿc4Eternity",
+        "zhTW": "ÿc1[MAX:310ED]\nÿc4Eternity\n永恆",
+        "zhCN": "ÿc1[MAX:310ED]\nÿc4Eternity\n永恒"
+    },
+    {
+        "id": 20543,
+        "Key": "Runeword37",
+        "enUS": "ÿc1[MAX:16Defiance/260ED]\nÿc4Exile",
+        "zhTW": "ÿc:PK或殺6Boss盾擊最常用，PVC不如飾金盾\nÿc1[MAX:16反抗/260ED]\nÿc4Exile\n流亡",
+        "zhCN": "ÿc:PK或杀6Boss盾击最常用，PVC不如饰金盾\nÿc1[MAX:16反抗/260ED]\nÿc4Exile\n流放"
+    },
+    {
+        "id": 20544,
+        "Key": "Runeword38",
+        "enUS": "ÿc:Niche one for Bowazon or Act 1 Merc\nÿc1[MAX:15Fanaticism/2Skill]\nÿc4Faith",
+        "zhTW": "ÿc:弓馬進階必備，可手抓也可給京子\nÿc1[MAX:15狂熱/2Skill]\nÿc4Faith\n信心",
+        "zhCN": "ÿc:弓马进阶必备，可手抓也可给京子\nÿc1[MAX:15狂热/2Skill]\nÿc4Faith\n信念"
+    },
+    {
+        "id": 20545,
+        "Key": "Runeword39",
+        "enUS": "ÿc1[MAX:370ED]\nÿc4Famine",
+        "zhTW": "ÿc1[MAX:370ED]\nÿc4Famine\n饑荒",
+        "zhCN": "ÿc1[MAX:370ED]\nÿc4Famine\n饥荒"
+    },
+    {
+        "id": 20546,
+        "Key": "Runeword40",
+        "enUS": "ÿc1[MAX:8Fire Resist/15FR/75Mana]\nÿc4Flickering Flame",
+        "zhTW": "ÿc:崔凡客的征服者，火法師的畢業頭\nÿc1[MAX:8抗火/-15FR/75Mana]\nÿc4Flickering Flame\n閃爍火焰",
+        "zhCN": "ÿc:崔凡客的征服者，火法師的毕业头\nÿc1[MAX:8抗火/-15FR/75Mana]\nÿc4Flickering Flame\n闪烁火焰"
+    },
+    {
+        "id": 20547,
+        "Key": "Runeword41",
+        "enUS": "ÿc:Useful for most Attack builds\nÿc1[MAX:1.5Life(LV)/30RES]\nÿc4Fortitude",
+        "zhTW": "ÿc:物理甲之魁首，權杖界之至尊\nÿc1[MAX:1.5Life(LV)/30RES]\nÿc4Fortitude\n剛毅",
+        "zhCN": "ÿc:物理甲之魁首，权杖界之至尊\nÿc1[MAX:1.5Life(LV)/30RES]\nÿc4Fortitude\n刚毅"
+    },
+    {
+        "id": 20548,
+        "Key": "Runeword42",
+        "enUS": "Fortune",
+        "zhTW": "Fortune\n機運",
+        "zhCN": "Fortune\n鸿运"
+    },
+    {
+        "id": 20549,
+        "Key": "Runeword43",
+        "enUS": "Friendship",
+        "zhTW": "Friendship\n友情",
+        "zhCN": "Friendship\n友谊"
+    },
+    {
+        "id": 20550,
+        "Key": "Runeword44",
+        "enUS": "ÿc4Fury",
+        "zhTW": "ÿc:WWASN選擇之一，兼顧傷害和OW\nÿc4Fury\n狂怒",
+        "zhCN": "ÿc:WWASN选择之一，兼顾伤害和OW\nÿc4Fury\n愤怒"
+    },
+    {
+        "id": 20551,
+        "Key": "Runeword45",
+        "enUS": "ÿc1[MAX:260ED]\nÿc4Gloom",
+        "zhTW": "ÿc1[MAX:260ED]\nÿc4Gloom\n幽暗",
+        "zhCN": "ÿc1[MAX:260ED]\nÿc4Gloom\n阴霾"
+    },
+    {
+        "id": 20552,
+        "Key": "Runeword46",
+        "enUS": "Glory",
+        "zhTW": "Glory\n榮譽",
+        "zhCN": "Glory\n光华"
+    },
+    {
+        "id": 20553,
+        "Key": "Runeword47",
+        "enUS": "ÿc:King of 1-handed weapon, IAS is critical\nÿc1[MAX:40IAS/400DMG/-25PR]\nÿc4Grief",
+        "zhTW": "ÿc:單手武器之王，攻速ias很重要，中衰老試試？\nÿc1[MAX:40IAS/400DMG/-25PR/15LK]\nÿc4Grief\n悔恨",
+        "zhCN": "ÿc:单手武器之王，攻速ias很重要，中衰老试试？\nÿc1[MAX:40IAS/400DMG/-25PR/15LK]\nÿc4Grief\n悔恨"
+    },
+    {
+        "id": 20554,
+        "Key": "Runeword48",
+        "enUS": "ÿc:Stacking Holy Fire Aura?\nÿc1[MAX:330ED]\nÿc4Hand of Justice",
+        "zhTW": "ÿc:元素弓和審判丁的玩具，聖火飛龍騎的必備\nÿc1[MAX:330ED]\nÿc4Hand of Justice\n正義之手",
+        "zhCN": "ÿc:元素弓和审判丁的玩具，圣火飞龙骑的必备\nÿc1[MAX:330ED]\nÿc4Hand of Justice\n正义之手"
+    },
+    {
+        "id": 20555,
+        "Key": "Runeword49",
+        "enUS": "ÿc:Nice swap for mobility\nÿc1[MAX:275ED/6Valkyrie]\nÿc4Harmony",
+        "zhTW": "ÿc:跑步弓，二線弓，副手城鎮跑步用\nÿc1[MAX:275ED/6女武神]\nÿc4Harmony\n和諧",
+        "zhCN": "ÿc:跑步弓，二线弓，副手城镇跑步用\nÿc1[MAX:275ED/6女武神]\nÿc4Harmony\n和谐"
+    },
+    {
+        "id": 20556,
+        "Key": "Runeword50",
+        "enUS": "Hatred",
+        "zhTW": "Hatred\n憎恨",
+        "zhCN": "Hatred\n憎恨"
+    },
+    {
+        "id": 20557,
+        "Key": "Runeword51",
+        "enUS": "ÿc:Good choice for most caster builds\nÿc1[MAX:40RES]\nÿc4Heart of the Oak",
+        "zhTW": "ÿc:俗稱OAK，教主神器，法系萬金油\nÿc1[MAX:40RES]\nÿc4Heart of the Oak\n橡樹之心",
+        "zhCN": "ÿc:俗称OAK，教主神器，法系万金油\nÿc1[MAX:40RES]\nÿc4Heart of the Oak\n橡树之心"
+    },
+    {
+        "id": 20558,
+        "Key": "Runeword52",
+        "enUS": "Heaven's Will",
+        "zhTW": "Heaven's Will\n天堂意志",
+        "zhCN": "Heaven's Will\n天堂意志"
+    },
+    {
+        "id": 20559,
+        "Key": "Runeword53",
+        "enUS": "Holy Tears",
+        "zhTW": "Holy Tears\n神聖之淚",
+        "zhCN": "Holy Tears\n神圣之泪"
+    },
+    {
+        "id": 20560,
+        "Key": "Runeword54",
+        "enUS": "ÿc4Holy Thunder",
+        "zhTW": "ÿc:衝擊丁開荒武器\nÿc4Holy Thunder\n神聖雷擊",
+        "zhCN": "ÿc:冲击丁开荒武器\nÿc4Holy Thunder\n圣雷"
+    },
+    {
+        "id": 20561,
+        "Key": "Runeword55",
+        "enUS": "ÿc4Honor",
+        "zhTW": "ÿc:輸出不如眼光，但有LL\nÿc4Honor\n榮耀",
+        "zhCN": "ÿc:输出不如眼光，但有LL\nÿc4Honor\n荣耀"
+    },
+    {
+        "id": 20562,
+        "Key": "Runeword56",
+        "enUS": "Revenge",
+        "zhTW": "Revenge\n報復",
+        "zhCN": "Revenge\n报复"
+    },
+    {
+        "id": 20563,
+        "Key": "Runeword57",
+        "enUS": "Humility",
+        "zhTW": "Humility\n謙恭",
+        "zhCN": "Humility\n谦逊"
+    },
+    {
+        "id": 20564,
+        "Key": "Runeword58",
+        "enUS": "Hunger",
+        "zhTW": "Hunger\n飢餓",
+        "zhCN": "Hunger\n饥饿"
+    },
+    {
+        "id": 20565,
+        "Key": "Runeword59",
+        "enUS": "ÿc:For Ice Bowazons\nÿc1[MAX:210ED/30CD]\nÿc4Ice",
+        "zhTW": "ÿc:元素弓土豪玩物\nÿc1[MAX:210ED/30CD]\nÿc4Ice\n寒冰",
+        "zhCN": "ÿc:元素弓土豪玩物\nÿc1[MAX:210ED/30CD]\nÿc4Ice\n寒冰"
+    },
+    {
+        "id": 20566,
+        "Key": "Runeword60",
+        "enUS": "ÿc1[MAX:325ED/-55LR]\nÿc4Infinity",
+        "zhTW": "ÿc:電法純招用，降怪抗性、破免疫必備，與謎團一起成為土豪標志\nÿc1[MAX:325ED/-55LR]\nÿc4Infinity\n無限",
+        "zhCN": "ÿc:电法纯招用，降怪抗性、破免疫必备，与谜团一起成为土豪标志\nÿc1[MAX:325ED/-55LR]\nÿc4Infinity\n无限"
+    },
+    {
+        "id": 20567,
+        "Key": "Runeword61",
+        "enUS": "Innocence",
+        "zhTW": "Innocence\n純真",
+        "zhCN": "Innocence\n无辜"
+    },
+    {
+        "id": 20568,
+        "Key": "Runeword62",
+        "enUS": "ÿc:Most popular, versatile early runeword\nÿc1[MAX:17Meditation/260ED/250AR/6CS]\nÿc4Insight",
+        "zhTW": "ÿc:性價比最高符語之二，續航神器，好底材加6cs輸出槓槓的\nÿc1[MAX:17冥想/260ED/250AR/6致命攻勢]\nÿc4Insight\n靈光",
+        "zhCN": "ÿc:性价比最高符语之二，续航神器，好底材加6cs输出杠杠的\nÿc1[MAX:17冥思/260ED/250AR/6致命攻击]\nÿc4Insight\n眼光"
+    },
+    {
+        "id": 20569,
+        "Key": "Runeword63",
+        "enUS": "Jealousy",
+        "zhTW": "Jealousy\n妒忌",
+        "zhCN": "Jealousy\n嫉妒"
+    },
+    {
+        "id": 20570,
+        "Key": "Runeword64",
+        "enUS": "Judgement",
+        "zhTW": "Judgement\n審判",
+        "zhCN": "Judgement\n审判"
+    },
+    {
+        "id": 20571,
+        "Key": "Runeword65",
+        "enUS": "ÿc4King's Grace",
+        "zhTW": "ÿc:開荒用，不如地獄瘟疫\nÿc4King's Grace\n王者的慈悲",
+        "zhCN": "ÿc:开荒用，不如地狱瘟疫\nÿc4King's Grace\n王恩"
+    },
+    {
+        "id": 20572,
+        "Key": "Runeword66",
+        "enUS": "ÿc1[MAX:270ED]\nÿc4Kingslayer",
+        "zhTW": "ÿc:名副其實的高級殺BOSS利器\nÿc1[MAX:270ED]\nÿc4Kingslayer\n弒王者",
+        "zhCN": "ÿc:名副其实的高级杀BOSS利器\nÿc1[MAX:270ED]\nÿc4Kingslayer\n弑君者"
+    },
+    {
+        "id": 20573,
+        "Key": "Runeword67",
+        "enUS": "Knight's Vigil",
+        "zhTW": "Knight's Vigil\n騎士守望",
+        "zhCN": "Knight's Vigil\n骑士之印"
+    },
+    {
+        "id": 20574,
+        "Key": "Runeword68",
+        "enUS": "Knowledge",
+        "zhTW": "Knowledge\n學識",
+        "zhCN": "Knowledge\n知识"
+    },
+    {
+        "id": 20575,
+        "Key": "Runeword69",
+        "enUS": "ÿc1[MAX:375ED/70CB]\nÿc4Last Wish",
+        "zhTW": "ÿc:造價最高的符文之語，被稱為最後嘲笑\nÿc1[MAX:375ED/70CB]\nÿc4Last Wish\n最後遺願",
+        "zhCN": "ÿc:造价最高的符文之语，被称为最后嘲笑\nÿc1[MAX:375ED/70CB]\nÿc4Last Wish\n临终之愿"
+    },
+    {
+        "id": 20576,
+        "Key": "Runeword70",
+        "enUS": "Law",
+        "zhTW": "Law\n律法",
+        "zhCN": "Law\n律法"
+    },
+    {
+        "id": 20577,
+        "Key": "Runeword71",
+        "enUS": "ÿc1[MAX:18Sanctuary/250Missle Def]\nÿc4Lawbringer",
+        "zhTW": "ÿc:城管劍，破物免用，A5傭兵開荒放副手\nÿc1[MAX:18庇護/250遠程防禦]\nÿc4Lawbringer\n執法者",
+        "zhCN": "ÿc:城管剑，破物免用，A5佣兵开荒放副手\nÿc1[MAX:18庇护之光/250远程防御]\nÿc4Lawbringer\n执法者"
+    },
+    {
+        "id": 20578,
+        "Key": "Runeword72",
+        "enUS": "ÿc:Excellent Sorc leveling weapon\nÿc4Leaf",
+        "zhTW": "ÿc:法師開荒神器\nÿc4Leaf\n葉子",
+        "zhCN": "ÿc:法师开荒神器\nÿc4Leaf\n叶子"
+    },
+    {
+        "id": 20579,
+        "Key": "Runeword73",
+        "enUS": "Lightning",
+        "zhTW": "Lightning\n閃電",
+        "zhCN": "Lightning\n闪电"
+    },
+    {
+        "id": 20580,
+        "Key": "Runeword74",
+        "enUS": "ÿc4Lionheart",
+        "zhTW": "ÿc:弓馬開荒常用\nÿc4Lionheart\n獅子心",
+        "zhCN": "ÿc:弓马开荒常用\nÿc4Lionheart\n狮心"
+    },
+    {
+        "id": 20581,
+        "Key": "Runeword75",
+        "enUS": "ÿc4Lore",
+        "zhTW": "ÿc:法系開荒都要做\nÿc4Lore\n知識",
+        "zhCN": "ÿc:法系开荒都要做\nÿc4Lore\n学识"
+    },
+    {
+        "id": 20582,
+        "Key": "Runeword76",
+        "enUS": "Love",
+        "zhTW": "Love\n愛情",
+        "zhCN": "Love\n爱情"
+    },
+    {
+        "id": 20583,
+        "Key": "Runeword77",
+        "enUS": "Loyalty",
+        "zhTW": "Loyalty\n忠誠",
+        "zhCN": "Loyalty\n忠诚"
+    },
+    {
+        "id": 20584,
+        "Key": "Runeword78",
+        "enUS": "Lust",
+        "zhTW": "Lust\n慾望",
+        "zhCN": "Lust\n欲望"
+    },
+    {
+        "id": 20585,
+        "Key": "Runeword79",
+        "enUS": "Madness",
+        "zhTW": "Madness\n瘋狂",
+        "zhCN": "Madness\n疯狂"
+    },
+    {
+        "id": 20586,
+        "Key": "Runeword81",
+        "enUS": "ÿc:AKA'615', niche starter weapon for act 2 merc\nÿc4Malice",
+        "zhTW": "ÿc:俗稱615，開荒槍兵米山常用武器\nÿc4Malice\n怨恨",
+        "zhCN": "ÿc:俗称615，开荒枪兵米山常用武器\nÿc4Malice\n怨恨"
+    },
+    {
+        "id": 20587,
+        "Key": "Runeword82",
+        "enUS": "ÿc4Melody",
+        "zhTW": "ÿc:元素弓堆技能過渡用，不如和諧\nÿc4Melody\n旋律",
+        "zhCN": "ÿc:元素弓堆技能过渡用，不如和谐\nÿc4Melody\n旋律"
+    },
+    {
+        "id": 20588,
+        "Key": "Runeword83",
+        "enUS": "ÿc4Memory",
+        "zhTW": "ÿc:純冰開荒副手頂球，頂球法舍我其誰\nÿc4Memory\n記憶",
+        "zhCN": "ÿc:纯冰开荒副手顶球，顶球法舍我其谁\nÿc4Memory\n回忆"
+    },
+    {
+        "id": 20589,
+        "Key": "Runeword84",
+        "enUS": "ÿc1[MAX:12Concentration/375ED]\nÿc4Mist",
+        "zhTW": "ÿc1[MAX:12專注/375ED]\nÿc4Mist\n迷霧",
+        "zhCN": "ÿc1[MAX:12专注/375ED]\nÿc4Mist\n迷雾"
+    },
+    {
+        "id": 20590,
+        "Key": "Runeword85",
+        "enUS": "Morning",
+        "zhTW": "Morning\n清晨",
+        "zhCN": "Morning\n清晨"
+    },
+    {
+        "id": 20591,
+        "Key": "Runeword86",
+        "enUS": "Mystery",
+        "zhTW": "Mystery\n神秘",
+        "zhCN": "Mystery\n谜题"
+    },
+    {
+        "id": 20592,
+        "Key": "Runeword87",
+        "enUS": "ÿc4Myth",
+        "zhTW": "ÿc:戰網肉BO常用甲\nÿc4Myth\n神話",
+        "zhCN": "ÿc:战网肉BO常用甲\nÿc4Myth\n神话"
+    },
+    {
+        "id": 20593,
+        "Key": "Runeword88",
+        "enUS": "ÿc:Essential one for leveling\nÿc4Nadir",
+        "zhTW": "ÿc:開荒必做頭，到等級後换知識\nÿc4Nadir\n天底",
+        "zhCN": "ÿc:开荒必做头，到等级后换学识\nÿc4Nadir\n天底"
+    },
+    {
+        "id": 20594,
+        "Key": "Runeword89",
+        "enUS": "Nature's Kingdom",
+        "zhTW": "Nature's Kingdom\n自然王國",
+        "zhCN": "Nature's Kingdom\n自然王国"
+    },
+    {
+        "id": 20595,
+        "Key": "Runeword90",
+        "enUS": "Night",
+        "zhTW": "Night\n夜晚",
+        "zhCN": "Night\n黑夜"
+    },
+    {
+        "id": 20596,
+        "Key": "Runeword91",
+        "enUS": "ÿc1[MAX:340ED/15MA]\nÿc4Oath",
+        "zhTW": "ÿc:平民武器之王，記得用無形武器做，好底材比符文更難得\nÿc1[MAX:340ED/15MA]\nÿc4Oath\n誓約",
+        "zhCN": "ÿc:平民武器之王，记得用无形武器做，好底材比符文更难得\nÿc1[MAX:340ED/15MA]\nÿc4Oath\n誓言"
+    },
+    {
+        "id": 20597,
+        "Key": "Runeword92",
+        "enUS": "ÿc1[MAX:300DEF/30RES]\nÿc4Obedience",
+        "zhTW": "ÿc:綜合性不錯的武器，純招米山或狼德可過渡\nÿc1[MAX:300DEF/30RES]\nÿc4Obedience\n遵從",
+        "zhCN": "ÿc:综合性不错的武器，纯招米山或狼德可过渡\nÿc1[MAX:300DEF/30RES]\nÿc4Obedience\n顺从"
+    },
+    {
+        "id": 20598,
+        "Key": "Runeword93",
+        "enUS": "Oblivion",
+        "zhTW": "Oblivion\n湮沒",
+        "zhCN": "Oblivion\n湮灭"
+    },
+    {
+        "id": 20599,
+        "Key": "Runeword94",
+        "enUS": "ÿc1[MAX:25Life/30MR/70RES]\nÿc4Obsession",
+        "zhTW": "ÿc:棄盾法師的終極神器\nÿc1[MAX:25MaxLife/30RegMana/70RES]\nÿc4Obsession\n執念",
+        "zhCN": "ÿc:棄盾法師的終極神器\nÿc1[MAX:25MaxLife/30RegMana/70RES]\nÿc4Obsession\n执着"
+    },
+    {
+        "id": 20600,
+        "Key": "Runeword95",
+        "enUS": "ÿc1[MAX:210ED/80AR]\nÿc4Passion",
+        "zhTW": "ÿc:狂戰士拿來破物免，也是雙夢法師武器\nÿc1[MAX:210ED/80AR]\nÿc4Passion\n熱情",
+        "zhCN": "ÿc:狂战士拿来破物免，也是双梦法师武器\nÿc1[MAX:210ED/80AR]\nÿc4Passion\n热情"
+    },
+    {
+        "id": 20601,
+        "Key": "Runeword96",
+        "enUS": "Patience",
+        "zhTW": "Patience\n耐心",
+        "zhCN": "Patience\n耐心"
+    },
+    {
+        "id": 20602,
+        "Key": "Runeword97",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Pattern",
+        "zhTW": "ÿc:刺客開荒用\nÿc1[MAX:80ED]\nÿc4Pattern\n圖紋",
+        "zhCN": "ÿc:刺客开荒用\nÿc1[MAX:80ED]\nÿc4Pattern\n典范"
+    },
+    {
+        "id": 20603,
+        "Key": "Runeword98",
+        "enUS": "ÿc4Peace",
+        "zhTW": "ÿc:傭兵過渡甲，標馬和元素弓也常用\nÿc4Peace\n和平",
+        "zhCN": "ÿc:佣兵过渡甲，标马和元素弓也常用\nÿc4Peace\n平和"
+    },
+    {
+        "id": 20604,
+        "Key": "Runeword99",
+        "enUS": "ÿc1[MAX:350DTD/375DTU]\nÿc4Voice of Reason",
+        "zhTW": "ÿc1[MAX:350DTD/375DTU]\nÿc4Voice of Reason\n理性之聲",
+        "zhCN": "ÿc1[MAX:350DTD/375DTU]\nÿc4Voice of Reason\n理智之声"
+    },
+    {
+        "id": 20605,
+        "Key": "Runeword100",
+        "enUS": "Penitence",
+        "zhTW": "Penitence\n懺悔",
+        "zhCN": "Penitence\n忏悔"
+    },
+    {
+        "id": 20606,
+        "Key": "Runeword101",
+        "enUS": "Peril",
+        "zhTW": "Peril\n危害",
+        "zhCN": "Peril\n灾劫"
+    },
+    {
+        "id": 20607,
+        "Key": "Runeword102",
+        "enUS": "Pestilence",
+        "zhTW": "Pestilence\n疫病",
+        "zhCN": "Pestilence\n疾病"
+    },
+    {
+        "id": 20608,
+        "Key": "Runeword103",
+        "enUS": "ÿc1[MAX:15Salvation/400ED/400Missile Def/21FA]\nÿc4Phoenix",
+        "zhTW": "ÿc:續航神器，火法或武學刺要帶它\nÿc1[MAX:15救贖/400ED/400遠程防禦/21FA]\nÿc4Phoenix\n鳳凰",
+        "zhCN": "ÿc:续航神器，火法或武学刺要带它\nÿc1[MAX:15救赎/400ED/400远程防御/21FA]\nÿc4Phoenix\n凤凰"
+    },
+    {
+        "id": 20609,
+        "Key": "Runeword104",
+        "enUS": "Piety",
+        "zhTW": "Piety\n虔誠",
+        "zhCN": "Piety\n虔敬"
+    },
+    {
+        "id": 20610,
+        "Key": "Runeword105",
+        "enUS": "Pillar of Faith",
+        "zhTW": "Pillar of Faith\n信念之柱",
+        "zhCN": "Pillar of Faith\n信念之柱"
+    },
+    {
+        "id": 20611,
+        "Key": "Runeword106",
+        "enUS": "ÿc1[MAX:17Cleanse/2Skill/320ED]\nÿc4Plague",
+        "zhTW": "ÿc:刺客爪的畢業裝，也可給A5佣兵降低抗性觸發器\nÿc1[MAX:17淨化/2Skill/320ED]\nÿc4Plague\n瘟疫",
+        "zhCN": "ÿc:刺客爪的毕业装，也可给A5佣兵降低抗性触发器\nÿc1[MAX:17净化/2Skill/320ED]\nÿc4Plague\n瘟疫"
+    },
+    {
+        "id": 20612,
+        "Key": "Runeword107",
+        "enUS": "Praise",
+        "zhTW": "Praise\n頌揚",
+        "zhCN": "Praise\n赞美"
+    },
+    {
+        "id": 20613,
+        "Key": "Runeword108",
+        "enUS": "Prayer",
+        "zhTW": "Prayer\n祈禱",
+        "zhCN": "Prayer\n祈祷"
+    },
+    {
+        "id": 20614,
+        "Key": "Runeword109",
+        "enUS": "ÿc1[MAX:20Concentration/300AR]\nÿc4Pride",
+        "zhTW": "ÿc:土豪弓馬米山拿，土豪純招做鐵魔\nÿc1[MAX:20專注/300AR]\nÿc4Pride\n驕傲",
+        "zhCN": "ÿc:土豪弓马米山拿，土豪纯招做铁魔\nÿc1[MAX:20专注/300AR]\nÿc4Pride\n骄傲"
+    },
+    {
+        "id": 20615,
+        "Key": "Runeword110",
+        "enUS": "ÿc1[MAX:150Life]\nÿc4Principle",
+        "zhTW": "ÿc1[MAX:150Life]\nÿc4Principle\n原則",
+        "zhCN": "ÿc1[MAX:150Life]\nÿc4Principle\n信条"
+    },
+    {
+        "id": 20616,
+        "Key": "Runeword111",
+        "enUS": "Prowess in Battle",
+        "zhTW": "Prowess in Battle\n勇戰之力",
+        "zhCN": "Prowess in Battle\n战力"
+    },
+    {
+        "id": 20617,
+        "Key": "Runeword112",
+        "enUS": "ÿc1[MAX:170ED/35RES]\nÿc4Prudence",
+        "zhTW": "ÿc:最高防禦甲，純冰凍牛用\nÿc1[MAX:170ED/35RES]\nÿc4Prudence\n謹慎",
+        "zhCN": "ÿc:最高防御甲，纯冰冻牛用\nÿc1[MAX:170ED/35RES]\nÿc4Prudence\n谨慎"
+    },
+    {
+        "id": 20618,
+        "Key": "Runeword113",
+        "enUS": "Punishment",
+        "zhTW": "Punishment\n懲罰",
+        "zhCN": "Punishment\n惩罚"
+    },
+    {
+        "id": 20619,
+        "Key": "Runeword114",
+        "enUS": "Purity",
+        "zhTW": "Purity\n純潔",
+        "zhCN": "Purity\n纯洁"
+    },
+    {
+        "id": 20620,
+        "Key": "Runeword115",
+        "enUS": "Question",
+        "zhTW": "Question\n疑問",
+        "zhCN": "Question\n质问"
+    },
+    {
+        "id": 20621,
+        "Key": "Runeword116",
+        "enUS": "Radiance",
+        "zhTW": "Radiance\n光輝",
+        "zhCN": "Radiance\n光辉"
+    },
+    {
+        "id": 20622,
+        "Key": "Runeword117",
+        "enUS": "ÿc1[MAX:150Mana]\nÿc4Rain",
+        "zhTW": "ÿc1[MAX:150Mana]\nÿc4Rain\n降雨",
+        "zhCN": "ÿc1[MAX:150Mana]\nÿc4Rain\n暴雨"
+    },
+    {
+        "id": 20623,
+        "Key": "Runeword118",
+        "enUS": "Reason",
+        "zhTW": "Reason\n理由",
+        "zhCN": "Reason\n理性"
+    },
+    {
+        "id": 20624,
+        "Key": "Runeword119",
+        "enUS": "Red",
+        "zhTW": "Red\n鮮紅",
+        "zhCN": "Red\n绯红"
+    },
+    {
+        "id": 20625,
+        "Key": "Runeword120",
+        "enUS": "ÿc4Rhyme",
+        "zhTW": "ÿc:開荒中又一個必做盾，戰系防凍，法系MF\nÿc4Rhyme\n聲韻",
+        "zhCN": "ÿc:开荒中又一个必做盾，战系防冻，法系MF\nÿc4Rhyme\n韵律"
+    },
+    {
+        "id": 20626,
+        "Key": "Runeword121",
+        "enUS": "ÿc1[MAX:10ATTR]\nÿc4Rift",
+        "zhTW": "ÿc1[MAX:10ATTR]\nÿc4Rift\n裂隙",
+        "zhCN": "ÿc1[MAX:10ATTR]\nÿc4Rift\n裂隙"
+    },
+    {
+        "id": 20627,
+        "Key": "Runeword122",
+        "enUS": "ÿc1[MAX:160ED/70RES]\nÿc4Sanctuary",
+        "zhTW": "ÿc:綜合屬性不錯，但面臨飾金盾和暴風盾的競爭\nÿc1[MAX:160ED/70RES]\nÿc4Sanctuary\n聖堂",
+        "zhCN": "ÿc:综合属性不错，但面临饰金盾和暴风盾的竞争\nÿc1[MAX:160ED/70RES]\nÿc4Sanctuary\n庇护"
+    },
+    {
+        "id": 20628,
+        "Key": "Runeword123",
+        "enUS": "Serendipity",
+        "zhTW": "Serendipity\n機緣",
+        "zhCN": "Serendipity\n奇遇"
+    },
+    {
+        "id": 20629,
+        "Key": "Runeword124",
+        "enUS": "Shadow",
+        "zhTW": "Shadow\n暗影",
+        "zhCN": "Shadow\n阴影"
+    },
+    {
+        "id": 20630,
+        "Key": "Runeword125",
+        "enUS": "Shadow of Doubt",
+        "zhTW": "Shadow of Doubt\n懷疑之影",
+        "zhCN": "Shadow of Doubt\n疑虑之影"
+    },
+    {
+        "id": 20631,
+        "Key": "Runeword126",
+        "enUS": "Silence",
+        "zhTW": "Silence\n寂靜",
+        "zhCN": "Silence\n沉默"
+    },
+    {
+        "id": 20632,
+        "Key": "Runeword127",
+        "enUS": "Siren's Song",
+        "zhTW": "Siren's Song\n賽蓮之歌",
+        "zhCN": "Siren's Song\n海妖之歌"
+    },
+    {
+        "id": 20633,
+        "Key": "Runeword128",
+        "enUS": "ÿc4Smoke",
+        "zhTW": "ÿc:開荒補抗性用\nÿc4Smoke\n煙霧",
+        "zhCN": "ÿc:开荒补抗性用\nÿc4Smoke\n烟雾"
+    },
+    {
+        "id": 20634,
+        "Key": "Runeword129",
+        "enUS": "Sorrow",
+        "zhTW": "Sorrow\n哀傷",
+        "zhCN": "Sorrow\n悲伤"
+    },
+    {
+        "id": 20635,
+        "Key": "Runeword130",
+        "enUS": "ÿc:Why not try to roll again for a perfect 35FCR?\nÿc1[MAX:35FCR/112Mana/8MA]\nÿc4Spirit",
+        "zhTW": "ÿc:性價比最高的符語之一，很多法系終配，35FCR最關鍵\nÿc1[MAX:35FCR/112Mana/8MA]\nÿc4Spirit\n精神",
+        "zhCN": "ÿc:性价比最高的符语之一，很多法系终配，35FCR最关键\nÿc1[MAX:35FCR/112Mana/8MA]\nÿc4Spirit\n精神"
+    },
+    {
+        "id": 20636,
+        "Key": "Runeword131",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Splendor",
+        "zhTW": "ÿc:初期MF很實用。用帶高詛咒的底材做，節約死靈技能點\nÿc1[MAX:100ED]\nÿc4Splendor\n燦爛",
+        "zhCN": "ÿc:初期MF很实用。用带高咒符的底材做，节约死灵技能点\nÿc1[MAX:100ED]\nÿc4Splendor\n壮美"
+    },
+    {
+        "id": 20637,
+        "Key": "Runeword132",
+        "enUS": "Starlight",
+        "zhTW": "Starlight\n星光",
+        "zhCN": "Starlight\n星光"
+    },
+    {
+        "id": 20638,
+        "Key": "Runeword133",
+        "enUS": "ÿc4Stealth",
+        "zhTW": "ÿc:開荒初期必做，性價比極高的符語\nÿc4Stealth\n隱密",
+        "zhCN": "ÿc:开荒初期必做，性价比极高的符语\nÿc4Stealth\n隐秘"
+    },
+    {
+        "id": 20639,
+        "Key": "Runeword134",
+        "enUS": "ÿc4Steel",
+        "zhTW": "ÿc:50OW和25IAS，近戰開荒必做\nÿc4Steel\n鋼鐵",
+        "zhCN": "ÿc:50OW和25IAS，近战开荒必做\nÿc4Steel\n钢铁"
+    },
+    {
+        "id": 20640,
+        "Key": "Runeword135",
+        "enUS": "Still Water",
+        "zhTW": "Still Water\n寂靜之水",
+        "zhCN": "Still Water\n止水"
+    },
+    {
+        "id": 20641,
+        "Key": "Runeword136",
+        "enUS": "Sting",
+        "zhTW": "Sting\n螫刺",
+        "zhCN": "Sting\n钉刺"
+    },
+    {
+        "id": 20642,
+        "Key": "Runeword137",
+        "enUS": "ÿc1[MAX:290ED]\nÿc4Stone",
+        "zhTW": "ÿc:防禦高，傭兵可過渡用\nÿc1[MAX:290ED]\nÿc4Stone\n石塊",
+        "zhCN": "ÿc:防御高，佣兵可过渡用\nÿc1[MAX:290ED]\nÿc4Stone\n磐石"
+    },
+    {
+        "id": 20643,
+        "Key": "Runeword138",
+        "enUS": "Storm",
+        "zhTW": "Storm\n風暴",
+        "zhCN": "Storm\n风暴"
+    },
+    {
+        "id": 20644,
+        "Key": "Runeword139",
+        "enUS": "ÿc4Strength",
+        "zhTW": "ÿc:需求最低的CB裝，開荒傭兵殺BOSS用\nÿc4Strength\n力量",
+        "zhCN": "ÿc:需求最低的CB装，开荒佣兵杀BOSS用\nÿc4Strength\n力量"
+    },
+    {
+        "id": 20645,
+        "Key": "Runeword140",
+        "enUS": "Tempest",
+        "zhTW": "Tempest\n暴風雨",
+        "zhCN": "Tempest\n暴风雨"
+    },
+    {
+        "id": 20646,
+        "Key": "Runeword141",
+        "enUS": "Temptation",
+        "zhTW": "Temptation\n誘惑",
+        "zhCN": "Temptation\n诱惑"
+    },
+    {
+        "id": 20647,
+        "Key": "Runeword142",
+        "enUS": "Terror",
+        "zhTW": "Terror\n恐佈",
+        "zhCN": "Terror\n恐惧"
+    },
+    {
+        "id": 20648,
+        "Key": "Runeword143",
+        "enUS": "Thirst",
+        "zhTW": "Thirst\n飢渴",
+        "zhCN": "Thirst\n渴求"
+    },
+    {
+        "id": 20649,
+        "Key": "Runeword144",
+        "enUS": "Thought",
+        "zhTW": "Thought\n思維",
+        "zhCN": "Thought\n思绪"
+    },
+    {
+        "id": 20650,
+        "Key": "Runeword145",
+        "enUS": "Thunder",
+        "zhTW": "Thunder\n雷霆",
+        "zhCN": "Thunder\n雷霆"
+    },
+    {
+        "id": 20651,
+        "Key": "Runeword146",
+        "enUS": "Time",
+        "zhTW": "Time\n時間",
+        "zhCN": "Time\n时光"
+    },
+    {
+        "id": 20652,
+        "Key": "Runeword147",
+        "enUS": "Tradition",
+        "zhTW": "Tradition\n傳統",
+        "zhCN": "Tradition\n传统"
+    },
+    {
+        "id": 20653,
+        "Key": "Runeword148",
+        "enUS": "ÿc4Treachery",
+        "zhTW": "ÿc:窮人米山第一甲，45IAS和15級影散獨步青雲\nÿc4Treachery\n背信",
+        "zhCN": "ÿc:穷人米山第一甲，45IAS和15級影散独步青云\nÿc4Treachery\n背叛"
+    },
+    {
+        "id": 20654,
+        "Key": "Runeword149",
+        "enUS": "Trust",
+        "zhTW": "Trust\n信任",
+        "zhCN": "Trust\n信任"
+    },
+    {
+        "id": 20655,
+        "Key": "Runeword150",
+        "enUS": "Truth",
+        "zhTW": "Truth\n真理",
+        "zhCN": "Truth\n真理"
+    },
+    {
+        "id": 20656,
+        "Key": "Runeword151",
+        "enUS": "ÿc1[MAX:30IAS/350ED/10LL]\nÿc4Unbending Will",
+        "zhTW": "ÿc:刀劍蠻子的六孔過渡武器\nÿc1[MAX:30IAS/350ED/10LL]\nÿc4Unbending Will\n不屈意志",
+        "zhCN": "ÿc:刀剑蛮子的六孔过渡武器\nÿc1[MAX:30IAS/350ED/10LL]\nÿc4Unbending Will\n不屈之志"
+    },
+    {
+        "id": 20657,
+        "Key": "Runeword152",
+        "enUS": "Valor",
+        "zhTW": "Valor\n英勇",
+        "zhCN": "Valor\n勇气"
+    },
+    {
+        "id": 20658,
+        "Key": "Runeword153",
+        "enUS": "Vengeance",
+        "zhTW": "Vengeance\n復仇",
+        "zhCN": "Vengeance\n复仇"
+    },
+    {
+        "id": 20659,
+        "Key": "Runeword154",
+        "enUS": "Venom",
+        "zhTW": "Venom\n劇毒",
+        "zhCN": "Venom\n毒液"
+    },
+    {
+        "id": 20660,
+        "Key": "Runeword155",
+        "enUS": "Victory",
+        "zhTW": "Victory\n勝利",
+        "zhCN": "Victory\n胜利"
+    },
+    {
+        "id": 20661,
+        "Key": "Runeword156",
+        "enUS": "Voice",
+        "zhTW": "Voice\n聲音",
+        "zhCN": "Voice\n声音"
+    },
+    {
+        "id": 20662,
+        "Key": "Runeword157",
+        "enUS": "Void",
+        "zhTW": "Void\n虛無",
+        "zhCN": "Void\n虚空"
+    },
+    {
+        "id": 20663,
+        "Key": "Runeword158",
+        "enUS": "War",
+        "zhTW": "War\n戰爭",
+        "zhCN": "War\n战争"
+    },
+    {
+        "id": 20664,
+        "Key": "Runeword159",
+        "enUS": "Water",
+        "zhTW": "Water\n清水",
+        "zhCN": "Water\n源水"
+    },
+    {
+        "id": 20665,
+        "Key": "Runeword160",
+        "enUS": "ÿc4Wealth",
+        "zhTW": "ÿc:腰纏萬貫，MF和打錢，別用需求高的甲做\nÿc4Wealth\n財富",
+        "zhCN": "ÿc:腰缠万贯，MF和打钱，别用需求高的甲做\nÿc4Wealth\n财富"
+    },
+    {
+        "id": 20666,
+        "Key": "Runeword161",
+        "enUS": "Whisper",
+        "zhTW": "Whisper\n低語",
+        "zhCN": "Whisper\n低语"
+    },
+    {
+        "id": 20667,
+        "Key": "Runeword162",
+        "enUS": "ÿc4White",
+        "zhTW": "ÿc:PK用，純骨死靈武器，毒招也可過渡用\nÿc4White\n蒼白",
+        "zhCN": "ÿc:PK用，纯骨死灵武器，毒招也可过渡用\nÿc4White\n白色"
+    },
+    {
+        "id": 20668,
+        "Key": "Runeword163",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Wind",
+        "zhTW": "ÿc1[MAX:160ED]\nÿc4Wind\n輕風",
+        "zhCN": "ÿc1[MAX:160ED]\nÿc4Wind\n疾风"
+    },
+    {
+        "id": 20669,
+        "Key": "Runeword164",
+        "enUS": "Wings of Hope",
+        "zhTW": "Wings of Hope\n希望之翼",
+        "zhCN": "Wings of Hope\n希望之翼"
+    },
+    {
+        "id": 20670,
+        "Key": "Runeword165",
+        "enUS": "ÿc1[MAX:25AR/8LM]\nÿc4Wisdom",
+        "zhTW": "ÿc:不錯的EK頭，穿刺屬性是附送的\nÿc1[MAX:25AR/8LM]\nÿc4Wisdom\n智慧",
+        "zhCN": "ÿc:不错的EK头，穿刺属性是附送的\nÿc1[MAX:25AR/8LM]\nÿc4Wisdom\n智慧"
+    },
+    {
+        "id": 20671,
+        "Key": "Runeword166",
+        "enUS": "Woe",
+        "zhTW": "Woe\n悲痛",
+        "zhCN": "Woe\n灾祸"
+    },
+    {
+        "id": 20672,
+        "Key": "Runeword167",
+        "enUS": "Wonder",
+        "zhTW": "Wonder\n驚奇",
+        "zhCN": "Wonder\n奇迹"
+    },
+    {
+        "id": 20673,
+        "Key": "Runeword168",
+        "enUS": "ÿc1[MAX:300DTU]\nÿc4Wrath",
+        "zhTW": "ÿc:觸發多種詛咒，弓馬玩具\nÿc1[MAX:300DTU]\nÿc4Wrath\n憤怒",
+        "zhCN": "ÿc:触发多种诅咒，弓马玩具\nÿc1[MAX:300DTU]\nÿc4Wrath\n怒火"
+    },
+    {
+        "id": 20674,
+        "Key": "Runeword169",
+        "enUS": "Youth",
+        "zhTW": "Youth\n年輕",
+        "zhCN": "Youth\n青春"
+    },
+    {
+        "id": 20675,
+        "Key": "Runeword170",
+        "enUS": "Zephyr",
+        "zhTW": "Zephyr\n和風",
+        "zhCN": "Zephyr\n和风"
+    },
+    {
+        "id": 27360,
+        "Key": "Runeword171",
+        "enUS": "Hustle",
+        "zhTW": "Hustle\n催促",
+        "zhCN": "Hustle\n喧嚣"
+    },
+    {
+        "id": 27361,
+        "Key": "Runeword172",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Hustle",
+        "zhTW": "ÿc1[MAX:200ED]\nÿc4Hustle\n催促",
+        "zhCN": "ÿc1[MAX:200ED]\nÿc4Hustle\n喧嚣"
+    },
+    {
+        "id": 27362,
+        "Key": "Runeword173",
+        "enUS": "ÿc1[MAX:250ED/15CD/15LD/15FD]\nÿc4Mosaic",
+        "zhTW": "ÿc1[MAX:250ED/15CD/15LD/15FD]\nÿc4Mosaic\n嵌飾",
+        "zhCN": "ÿc1[MAX:250ED/15CD/15LD/15FD]\nÿc4Mosaic\n模糊"
+    },
+    {
+        "id": 27363,
+        "Key": "Runeword174",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Metamorphosis",
+        "zhTW": "ÿc1[MAX:80ED]\nÿc4Metamorphosis\n變化",
+        "zhCN": "ÿc1[MAX:80ED]\nÿc4Metamorphosis\n变形"
+    },
+    {
+        "id": 27364,
+        "Key": "Runeword175",
+        "enUS": "ÿc1[MAX:100ED/60LR/15LA]\nÿc4Ground",
+        "zhTW": "ÿc1[MAX:100ED/60LR/15LA]\nÿc4Ground\n接地",
+        "zhCN": "ÿc1[MAX:100ED/60LR/15LA]\nÿc4Ground\n接地"
+    },
+    {
+        "id": 27365,
+        "Key": "Runeword176",
+        "enUS": "ÿc1[MAX:100ED/60FR/15FA]\nÿc4Temper",
+        "zhTW": "ÿc1[MAX:100ED/60FR/15FA]\nÿc4Temper\n和緩",
+        "zhCN": "ÿc1[MAX:100ED/60FR/15FA]\nÿc4Temper\n淬火"
+    },
+    {
+        "id": 27366,
+        "Key": "Runeword177",
+        "enUS": "ÿc1[MAX:100ED/60CR/15CA]\nÿc4Hearth",
+        "zhTW": "ÿc1[MAX:100ED/60CR/15CA]\nÿc4Hearth\n火爐",
+        "zhCN": "ÿc1[MAX:100ED/60CR/15CA]\nÿc4Hearth\n壁炉"
+    },
+    {
+        "id": 27367,
+        "Key": "Runeword178",
+        "enUS": "ÿc1[MAX:100ED/60PR]\nÿc4Cure",
+        "zhTW": "ÿc1[MAX:100ED/60PR]\nÿc4Cure\n治癒",
+        "zhCN": "ÿc1[MAX:100ED/60PR]\nÿc4Cure\n解药"
+    },
+    {
+        "id": 27368,
+        "Key": "Runeword179",
+        "enUS": "ÿc1[MAX:100ED/6LL/15DR]\nÿc4Bulwark",
+        "zhTW": "ÿc1[MAX:100ED/6LL/15DR]\nÿc4Bulwark\n壁壘",
+        "zhCN": "ÿc1[MAX:100ED/6LL/15DR]\nÿc4Bulwark\n壁垒"
+    }
+]

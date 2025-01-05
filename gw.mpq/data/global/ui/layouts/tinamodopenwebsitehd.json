@@ -1,0 +1,22 @@
+{
+	"type": "UKComplianceModal","name": "TinaModOpenWebsite",
+	"fields": {
+		"anchor": {"x": 0.5,"y": 0.5},
+		"isDismissable": false
+	},
+	"children": [
+	    {
+            "type": "TimerWidget","name": "TimerWebsite",
+            "fields":{
+                "time": 0.1,
+                "message": "ModalMessage:Confirm:https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315"
+                //"message": "ModalMessage:Confirm:@AloneModDownload"
+            }
+        },
+        {
+            "type": "TimerWidget","name": "TimerClose",
+            "fields":{"time": 0.2,"message": "PanelManager:ClosePanel:TinaModOpenWebsite"}
+        },
+    
+	]
+}

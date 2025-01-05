@@ -1,0 +1,78 @@
+{
+    "type": "SettingsPanel", "name": "TinaModVerFunctionPanel",
+    "fields": {
+        "priority": 9103,
+        "rect": "$OptionsPanelRect",
+        "anchor": { "x": 0.5 },
+        "applySettingsImmediately": false,
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll",
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
+                    "fields": {
+                        "rect": "$TinaOptionsScrollBarRect",
+                        "anchor": { "x": 1.0 },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd",
+                    }
+                },
+            ]
+        },
+        {
+            "type": "ScrollViewWidget", "name": "ScrollView","fields": {"fitToParent": true,"scrollControllerName": "ScrollController",}, "children": [
+            {
+                    "type": "TableWidget", "name": "SocketsTable",
+                    "fields": {"columns": [ { "width": 1700, "alignment": { "h": "fit", "v": "fit" } } ],"rowHeight": "$TinaOptionsTableRowHeight"},
+                    "children": [ {"type": "TableRowWidget", "name": "RowDesc",
+                       "fields": {"rect": {"width": 1700, "height": 120}},"children": [
+             { "type": "TextBoxWidget", "name": "TitleText", "fields": {
+                       "text": "· 功能说明",
+                       "style": "$StyleSettingsTitle" },"children": [ {"type": "ImageWidget", "name": "Divider", "fields": {"rect": {"x": 0, "y": 100},"filename": "PauseMenu\\Divider"  }} ] }]
+                        },
+                        {"type": "TextBoxWidget","name": "LongDescription",
+                            "fields": { "rect":{"x": 40, "y": 150, "width": 1600, "height": 3500},
+                            "text": "一、@ModsName简介\n\n本MOD适配最新@ModSeasons和@D2RVer。力求保持原版风貌，只修订文字和优化UI等辅助功能。本Mod借鉴很多，感谢各位大佬，深表敬意。目前自己使用本MOD游戏中，也分享给大家。\n免责申明：本MOD只修改、调整了本地化的文本及少量UI贴图内容，不涉及核心数据的修改。本着暴雪提供MOD接口并未屏蔽用于线上，默认暴雪认可MOD用于线上的朴素认知，制作分享此MOD，相关风险请自行把握，本人不对使用此MOD可能产生的任何风险负责。敬请知悉！\n\n二、MOD的主要功能：\n1、吐槽补丁；\n2、暗黑百科，集成常用合成配方、符文之语查询等信息；\n3、底材提示；\n4、添加符文编号和贴图；\n5、地图场景添加等级信息；\n6、20号以上符文、珠宝、咒符等有掉落光柱；\n7、字体采用励字准圆简繁，英文采用经典暗黑风格英文字体。\n8、药剂和卷轴名称简写；\n9、装备浮动变量Max；\n10、装备属性添加了英文缩写以便与Max变量进行比较。\n11、装备品质和重量，(轻，中，重)表示重量，(普，扩，精)表示品阶；\n12、带孔（含带孔无形）底材地面显示为淡粉紫色，纯无形底材地面显示为淡青色；\n13、箱子、武器架和凯恩等添加光效；\n14、黑毛进度提醒。\n15、入口和小站光柱指引。\n16、屏蔽垃圾词缀（劣等的、损坏的、破旧的、粗制的）的物品。\n17、小地图标识npc和好友图标。\n18、怪物血条优化。\n19、添加新简体字版。是重制版的繁体翻译为简体中文，而不是官方的简体中文。例如：“斬鐮”（繁体）和“斩镰”（简体）而不是“砍斧”。\n20、调整佣兵位置避免Fps重叠。\n21、屏蔽垃圾的小黑条。(屏蔽了大字体模式的小黑条)\n22、添加荒廢的神殿(藍伊森之書)任务和安达利尔bug杀等提示。\n23、添加祭坛功能说明，鼠标放到祭坛上即可看到。\n24、屏蔽杂物（药水、卷轴、钥匙、弓矢等）的物品。\n25、调整了字体库，解除了繁体字存储大小问题，可以自己更换喜欢的字体。\n26、增加了迷你盒子。\n27、增加了刺客保护眼睛特效。\n28、快速登陆。\n29、支持英文显示，包括Max变量、品质、重量、吐槽、暗黑百科等。\n30、技能增加英文说明。\n31、物品增加英文说明。\n32、增加尼拉塞克指引和巴爾(分身)显示。\n33、增加任务和Bug任务提示。",
+                            "style": 
+                            {"fontFace": "Formal","pointSize": "$XMediumLargeFontSize",
+                                "options": {"lineWrap": true,"pipeCharacterBehavior": "handle","newlineHandling": "standard" },"spacing": "$ReducedSpacing","alignment":{"h": "left"},
+                                "fontColor": "$DescriptionTextColor"
+                                } }
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "Rowtext",
+                            "fields": {"rect": {"width": 1700, "height": 3400} }, 
+                            "children": [ 
+                                {
+                                    "type": "TextBoxWidget", "name": "Text2",
+                                    "fields": {"text": " ","style": "$StyleSettingsTitle"}
+                                },
+                            ]
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "RowDivider",
+                            "children": [     
+                                { 
+                                    "type": "ImageWidget", "name": "Divider", 
+                                    "fields": {  "rect": {"x": 0, "y": 20}, "filename": "PauseMenu\\Divider"  }
+                                }
+                            ]
+                        }
+                
+                    ]
+                }
+            ]
+        },
+    ]
+}

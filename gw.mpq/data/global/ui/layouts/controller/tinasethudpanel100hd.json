@@ -1,0 +1,29 @@
+{
+    "type": "HUDPanelHD", "name": "TinaSetHudpanel100",
+    "fields": {
+        "anchor": { "x": 0.5, "y": 0.5 }
+    },
+    "children": [
+        {
+            "type": "TimerWidget", "name": "TimerClose",
+            "fields": {
+                "time": 0.1,
+                "message": "PanelManager:ClosePanel:HUDPanel050"
+            }
+        },
+        {
+            "type": "TimerWidget", "name": "TimerOpen",
+            "fields": {
+                "time": 0.1,
+                "message": "PanelManager:OpenPanel:HUDPanel"
+            }
+        },
+        {
+            "type": "TimerWidget", "name": "TimerClose",
+            "fields": {
+                "time": 0.1,
+                "message": "PanelManager:ClosePanel:TinaSetHudpanel100"
+            }
+        }
+    ]
+}

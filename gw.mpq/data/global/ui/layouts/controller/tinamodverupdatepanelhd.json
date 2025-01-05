@@ -1,0 +1,120 @@
+{
+    "type": "SettingsPanel", "name": "TinaModVerUpdatePanel",
+    "fields": {
+        "priority": 9103,
+        "rect": "$OptionsPanelRect",
+        "anchor": { "x": 0.5 },
+        "applySettingsImmediately": false,
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll",
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
+                    "fields": {
+                        "rect": "$TinaOptionsScrollBarRect",
+                        "anchor": { "x": 1.0 },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd",
+                    }
+                },
+            ]
+        },
+        {
+            "type": "ScrollViewWidget", "name": "ScrollView",
+            "fields": {"fitToParent": true,"scrollControllerName": "ScrollController",}, 
+            "children": [
+                {
+                    "type": "TableWidget", "name": "Table",
+                    "fields": {"columns": [ { "width": 1700, "alignment": { "h": "fit", "v": "fit" } } ],"rowHeight": "$TinaOptionsTableRowHeight"},
+                    "children": [ 
+                        {
+                            "type": "TableRowWidget", "name": "RowTitle",
+                            "fields": {"rect": {"width": 1700, "height": 120}},
+                            "children": [
+                                { 
+                                    "type": "TextBoxWidget", "name": "TitleText", 
+                                    "fields": {"text": "· 最新更新","style": "$StyleSettingsTitle" },
+                                    "children": [ 
+                                        {
+                                            "type": "ImageWidget", "name": "Divider", 
+                                            "fields": {"rect": {"x": 0, "y": 100},"filename": "PauseMenu\\Divider"}
+                                        } 
+                                    ] 
+                                }
+                            ]
+                        },
+                        {
+                            "type": "ButtonWidget", "name": "OpenTinaModlink",
+                            "fields": {
+                                "rect":{"x": 40, "y": 150, "width": 1600, "height": 60},
+                                //"filename": "items/misc/quest/lam_esens_tome",
+                                "onClickMessage": "PanelManager:TogglePanel:TinaModOpenWebsite",
+                                "tooltipString": "请点击反馈意见和获取最新版本！",
+                                "sound": "cursor_identify_item_5_hd",
+                                "pressedFrame": 0,
+                                "hoveredFrame": 0,
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget","name": "LongDescription",
+                            "fields": { "rect":{"x": 40, "y": 150, "width": 1600, "height": 160},
+                            "text": "请点击《凯恩之角论坛》，反馈意见和获取最新更新!!!",
+                            "style": 
+                                {"fontFace": "Formal","pointSize": "$XMediumLargeFontSize",
+                                "options": {"lineWrap": true,"pipeCharacterBehavior": "handle","newlineHandling": "standard" },"spacing": "$ReducedSpacing","alignment":{"h": "left"},
+                                "fontColor": "$FontColorOrange"} }
+                        },
+                        {
+                            "type": "TextBoxWidget","name": "LongDescription2",
+                            "fields": { "rect":{"x": 40, "y": 250, "width": 1600, "height": 160},
+                            "text": "@ModsName当前版本：@ModsVersion 适配@ModSeasons和@D2RVer。",
+                            "style": 
+                                {"fontFace": "Formal","pointSize": "$XMediumLargeFontSize",
+                                "options": {"lineWrap": true,"pipeCharacterBehavior": "handle","newlineHandling": "standard" },"spacing": "$ReducedSpacing","alignment":{"h": "left"},
+                                "fontColor": "$PanelTitleColor"} }
+                        },
+                        {
+                            "type": "TextBoxWidget","name": "LongDescription3",
+                            "fields": { "rect":{"x": 40, "y": 350, "width": 1600, "height": 2500},
+                            "text": "v2.10版发布于2024-3-26\n1、技能增加英文说明。\n2、物品增加英文说明。\n3、增加尼拉塞克指引和巴爾(分身)显示。\n4、增加任务和Bug任务提示。\n\nv2.00版发布于2024-2-23\n1、增加了刺客保护眼睛特效。\n2、快速登陆。\n3、支持英文显示，包括Max变量、品质、重量、吐槽、暗黑百科等。\n4、适配S6和2.7.2版。\n\nv1.09版发布于2024-1-11\n1、增加了迷你盒子。\n2、彻底屏蔽垃圾了小黑条。\n3、适配S5和2.7.2版。\n\nv1.08发布于2023-6-22\n1、适配S4和2.7版。\n\nv1.07发布于2023-3-1\n1、调整佣兵位置，避免与Fps和ping重叠。\n2、去掉屏蔽垃圾的小黑条。\n3、添加荒廢的神殿(藍伊森之書)任务和安达利尔bug杀等提示。\n4、添加祭坛功能说明，鼠标放到祭坛上即可看到。\n5、屏蔽杂物（药水、卷轴、钥匙、弓矢等）的物品。\n\nv1.06发布于2023-02-20\n1、添加入口和小站光柱指引。\n2、屏蔽垃圾词缀（劣等的、损坏的、破旧的、粗制的）的物品。\n3、小地图标识npc和好友图标。\n\nv1.05 发布于 2023-02-19。\n1、在暗黑百科中添加第3季2.6版的符文之语查询。\n2、添加第3季2.6版新符文之语的MAX变量。\n",
+                            "style": 
+                                {"fontFace": "Formal","pointSize": "$XMediumLargeFontSize",
+                                "options": {"lineWrap": true,"pipeCharacterBehavior": "handle","newlineHandling": "standard" },"spacing": "$ReducedSpacing","alignment":{"h": "left"},
+                                "fontColor": "$DescriptionTextColor"} }
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "RowText",
+                            "fields": {"rect": {"width": 1700, "height": 2500} }, 
+                            "children": [ 
+                                {
+                                    "type": "TextBoxWidget", "name": "Text2",
+                                    "fields": {"text": " ","style": "$StyleSettingsTitle"}
+                                },
+                            ]
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "RowDivider",
+                            "children": [ 
+                                { 
+                                    "type": "ImageWidget", "name": "Divider", 
+                                    "fields": {  "rect": {"x": 0, "y": 20}, "filename": "PauseMenu\\Divider"  }
+                                }
+                            ]
+                        },
+                    ]
+                }
+            ]
+        },
+    ]
+}

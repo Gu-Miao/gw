@@ -1,0 +1,95 @@
+{
+    "type": "SettingsPanel", "name": "TinaModVerRewardPanel",
+    "fields": {
+        "priority": 9103,
+        "rect": "$OptionsPanelRect",
+        "anchor": { "x": 0.5 },
+        "applySettingsImmediately": false,
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll",
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
+                    "fields": {
+                        "rect": "$TinaOptionsScrollBarRect",
+                        "anchor": { "x": 1.0 },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd",
+                    }
+                },
+            ]
+        },
+        {
+            "type": "ScrollViewWidget", "name": "ScrollView",
+            "fields": {"fitToParent": true,"scrollControllerName": "ScrollController",}, 
+            "children": [
+                {
+                    "type": "TableWidget", "name": "SocketsTable",
+                    "fields": {"columns": [ { "width": 1700, "alignment": { "h": "fit", "v": "fit" } } ],"rowHeight": "$TinaOptionsTableRowHeight"},
+                    "children": [ 
+                        {
+                            "type": "TableRowWidget", "name": "RowTitle",
+                            "fields": {"rect": {"width": 1700, "height": 120}},
+                            "children": [
+                                { 
+                                    "type": "TextBoxWidget", "name": "TitleText", 
+                                    "fields": {"text": "· 支持和助力","style": "$StyleSettingsTitle" },
+                                    "children": [ 
+                                        {
+                                            "type": "ImageWidget", "name": "Divider", 
+                                            "fields": {"rect": {"x": 0, "y": 100},"filename": "PauseMenu\\Divider" }
+                                        } 
+                                    ] 
+                                }
+                            ]
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "RowDesc",
+                            "fields": {"rect": {"width": 1700, "height": 160} },
+                            "children": [ 
+                                {
+                                    "type": "TextBoxWidget", "name": "DescText",
+                                    "fields": {"text": "欢迎支持和打赏，TinaMod在你的助力下会越做越好！！！","style": "$StyleSettingsText"}
+                                },
+                            ]
+                        },
+                        { 
+                            "type": "TableRowWidget", "name": "RowSupport",
+                            "fields": {"rect": {"width": 1700, "height": 900} },  
+                            "children": [
+                                {
+                                    "type": "ImageWidget", "name": "SupportImage",
+                                    "fields": {
+                                        "fitToParent": true,
+                                        "rect": { "scale": 2.2 },
+                                        "filename": "PANEL\\message\\support_Tina"
+                                    }
+                                }
+                            ]
+                        }, 
+                        { 
+                            "type": "TableRowWidget", "name": "RowDivider",
+                            "children": [ 
+                                { 
+                                    "type": "ImageWidget", "name": "Divider", 
+                                    "fields": {  "rect": {"x": 0, "y": 20}, "filename": "PauseMenu\\Divider"  }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+    ]
+}
