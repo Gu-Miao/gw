@@ -107,3 +107,9 @@
 
 - `data\hd\roomtiles\`
 - `data\hd\objects\waypoint_portals\`
+
+## 参考资料
+
+- <a href="https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315" target="__blank">TinaAlone Mod</a>
+- <a href="https://www.wolai.com/5cyjCCgBFwVrFRsH4pwrZe" target="__blank">Yte Mod</a>
+- <a href="https://www.bilibili.com/video/BV1p44y1L7T4" target="__blank">【暗黑 2 重制】手把手教你做 Mod</a>
