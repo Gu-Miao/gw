@@ -86,6 +86,7 @@
 - 提高高号符文的掉落几率，并且牛场奶牛现在最高可以掉落 12/20/33 号符文。
 - 根据难度提升所有 BOSS 暗金/套装的染色率。
 - 技能上限改为 27 级。
+- 物品名称/符文之语使用 <a href="https://www.wolai.com/5cyjCCgBFwVrFRsH4pwrZe" target="__blank">Yte Mod</a> 中的文本。
 
 ## DIY 设置指南
 
