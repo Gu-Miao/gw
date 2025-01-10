@@ -18,6 +18,11 @@
 # text
 * text eol=crlf
 
+# Texture
+*.sprite	 	  binary
+*.particles		  binary
+*.texture		  binary
+
 # Graphics
 *.ai              binary
 *.bmp             binary
