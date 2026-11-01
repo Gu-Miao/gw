@@ -1,4 +1,6 @@
-# Skills
+# 技能编号
+
+编号是 3.3 `skills.txt` 里的 `*Id`。术士的 `charclass` 是 `war`，三页分别是恶魔、邪术、混沌。中文名用的是 3.3 简体技能名。本仓库里这些技能的 `maxlvl` 写成 27，原来空着的格子仍然空着。
 
 ## Amazon 亚马逊
 
@@ -111,7 +113,7 @@
 | 154  | Warcry         | 战斗狂嗥 |
 | 155  | Battle command | 战斗指挥 |
 
-### 战斗专家 Combat asteries
+### 战斗专家 Combat Masteries
 
 | code | en                 | zh           |
 | ---- | ------------------ | ------------ |
@@ -209,7 +211,7 @@
 
 | code | en               | zh       |
 | ---- | ---------------- | -------- |
-| 067  | Teech            | 牙       |
+| 067  | Teeth            | 牙       |
 | 068  | Bone Armor       | 白骨装甲 |
 | 073  | Poison Dagger    | 淬毒匕首 |
 | 074  | Corpse Explosion | 尸体爆炸 |
@@ -231,7 +233,7 @@
 | 077  | Terror         | 恐惧     |
 | 081  | Confuse        | 迷乱     |
 | 082  | Life Tap       | 偷取生命 |
-| 086  | Attracc        | 吸引     |
+| 086  | Attract        | 吸引     |
 | 087  | Decrepify      | 衰老     |
 | 091  | Lower Resist   | 降低抵抗 |
 
@@ -297,9 +299,9 @@
 | 059  | Blizzard       | 暴风雪   |
 | 060  | Chilling Armor | 寒冰装甲 |
 | 064  | Frozen Orb     | 冰封球   |
-| 065  | Cold Matery    | 支配冰冷 |
+| 065  | Cold Mastery   | 支配冰冷 |
 
-### 闪电法术 Lighting
+### 闪电法术 Lightning
 
 | code | en                | zh       |
 | ---- | ----------------- | -------- |
@@ -328,3 +330,52 @@
 | 056  | Meteor       | 陨石     |
 | 062  | Hydra        | 九头海蛇 |
 | 061  | Fire Mastery | 支配之焰 |
+
+## Warlock 术士
+
+`charclass` 为 `war`。编号 373 到 402。
+
+### 恶魔 Demon
+
+| code | en                | zh       |
+| ---- | ----------------- | -------- |
+| 374  | Demonic Mastery   | 恶魔精通 |
+| 373  | Summon Goatman    | 召唤羊头人 |
+| 378  | Blood Oath        | 血誓     |
+| 375  | Death Mark        | 死亡印记 |
+| 376  | Summon Tainted    | 召唤污染魔 |
+| 380  | Blood Boil        | 红液沸腾 |
+| 377  | Summon Defiler    | 召唤污秽者 |
+| 379  | Engorge           | 暴食     |
+| 381  | Consume           | 吞噬     |
+| 382  | Bind Demon        | 束缚恶魔 |
+
+### 邪术 Eldritch
+
+| code | en               | zh         |
+| ---- | ---------------- | ---------- |
+| 383  | Levitate         | 悬浮精通   |
+| 385  | Hex Bane         | 咒术: 灾祸 |
+| 391  | Cleave           | 劈斩       |
+| 388  | Echoing Strike   | 回响打击   |
+| 389  | Hex Purge        | 咒术: 净化 |
+| 390  | Blade Warp       | 飞刃传形   |
+| 387  | Psychic Ward     | 会心守御   |
+| 384  | Eldritch Blast   | 邪术冲击   |
+| 386  | Hex Siphon       | 咒术: 吸取 |
+| 392  | Mirrored Blades  | 镜影锋刃   |
+
+### 混沌 Chaos
+
+| code | en                | zh         |
+| ---- | ----------------- | ---------- |
+| 395  | Miasma Bolt       | 瘴气弹     |
+| 394  | Ring of Fire      | 火焰之环   |
+| 393  | Sigil Lethargy    | 符徽: 迟缓 |
+| 396  | Sigil Rancor      | 符徽: 怨恨 |
+| 399  | Miasma Chains     | 瘴气锁链   |
+| 398  | Flame Wave        | 烈焰波     |
+| 400  | Sigil Death       | 符徽: 死亡 |
+| 397  | Enhanced Entropy  | 强化之熵   |
+| 401  | Apocalypse        | 末日       |
+| 402  | Abyss             | 深渊       |

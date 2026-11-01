@@ -1,116 +1,48 @@
-# GW Mod for Diablo II
+# GW
 
-基于 <a href="https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315" target="__blank">TinaAlone Mod</a> 进行修改。
+暗黑破坏神 2 重制版的单机 Mod，按术士君临 3.3 收过一遍。只进单机，不要拿去战网。
 
-## Mod 简介
+## 这一版有什么
 
-原 TinaAlone MOD 为单机版适配 `2.7.2` 版。力求保持原版风貌，对文字和 UI 进行了优化等辅助功能。
-免责申明：<span style="color: red;">**本 MOD 只用于单机版游戏。不能应用于战网！！！**</span>
+- 赫拉迪克方块是 10×10。
+- 佣兵可以装备头盔、护甲、武器以外的饰品槽。
+- 个人箱 6×4，共享箱 10×10，用游戏自己的堆叠仓库。
+- 技能上限 27，术士也是。另有 20 个怪物技能的上限同样是 27。
+- 每级 2 点技能，属性点每级 5。
+- 回蓝更快。
+- 开局带赫拉迪克方块、回城书和鉴定书。
+- 噩梦和地狱的抗性惩罚更高。怪物技能等级：普通加 1，噩梦从 3 提到 4，地狱从 7 提到 9。
+- 佣兵对首领的伤害更高。
+- 1 到 30 级，以及 89 到 99 级的经验更多。
+- 腰带是 16 格。资料片第二套里的 `default2` 仍是 4 格。
+- 职业专属装备更容易出暗金、套装和超强。安达利尔、督瑞尔、墨菲斯托、迪亚波罗、巴尔，以及对应的任务掉落，暗金和套装权重按难度是 990、995、999。
+- 高号符文更容易掉。牛场额外会掉符文：普通 `Runes 6`，噩梦 `Runes 10`，地狱 `Runes 17`。
+- 大部分地图的怪物密度和精英数量，从普通到地狱逐级提高。
+- 赌博更容易出稀有、套装和暗金。
+- 人物界面上，背包、左右手、鞋和手套的位置有调整。底栏用游戏自己的。
 
-## MOD 安装位置
+仓库根目录的 `SharedStashHardCoreV2.d2i` 和 `SharedStashSoftCoreV2.d2i` 是旧版 7 页箱子的存档组件，不要拷进存档目录。
 
-将 Tina 文件夹复制放到游戏安装根目录内 Mods 文件夹内（若无 Mods 文件夹请新建一个）。
-即放到 `Diablo II Resurrected\Mods\gw\gw.mpq` 目录下。
+## 安装
 
-[7 页大箱子]说明：
+在仓库根目录执行：
 
-- 进入游戏后，创建一个新角色，mod 会自动在存档目录下创建 `Mods\gw\`保存游戏存档（不影响以前的存档）。
-- 附件解压后有两个 `SharedStashHardCoreV2.d2i` 和 `SharedStashSoftCoreV2.d2i` 文件，这是 7 页大箱子必备组件，复制到新创建的游戏存档目录里，否则共享箱子只有 4 页，若游戏存档目录里没有 Mods 或 Mods 文件夹下没有 `gw` 文件夹，请新建一个。路径示例：`%USERPROFILE%\Saved Games\Diablo II Resurrected\Mods\gw\`。
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
+```
 
-- 将以前的存档拷贝到新建目录里即可。
-  以前存档的目录为：
-  `%USERPROFILE%\Saved Games\Diablo II Resurrected\`
-  新目录为：
-  `%USERPROFILE%\Saved Games\Diablo II Resurrected\Mods\gw\`
+脚本会找到装有 `D2R.exe` 的游戏目录，把本仓库的 `gw.mpq` 复制到 `Mods\gw\gw.mpq`。找到多个游戏目录时会停下来，只留一个再运行。
 
-## 单机参数设置
+用 D2RLoader 启动，或给 `D2R.exe` 加参数：
 
-用快捷方式启动，在 `D2R.exe` 文件上点击右键，选创建快捷方式，在桌面的快捷图标点击右键，选属性，再选快捷方式选项卡，在目标一栏加入启动参数 `-mod gw -txt`。
-即 `"X:\Diablo II Resurrected\D2R.exe" -mod gw -txt`（X 盘改为你实际安装游戏的盘符，横杠前面是有空格的）
+`"X:\Diablo II Resurrected\D2R.exe" -mod gw -txt`
 
-## TinaAlone MOD 的主要功能：
+横杠前面有空格。新角色的存档在 `%USERPROFILE%\Saved Games\Diablo II Resurrected\Mods\gw\`。
 
-- 7 页大箱子 16X16+大盒子+佣兵全装备；
-- 吐槽补丁；
-- 暗黑百科，集成常用合成配方、符文之语查询等信息；(采用本论坛大佬)
-- 底材提示；
-- 添加符文编号和贴图；
-- 地图场景添加等级信息；
-- 20 号以上符文、珠宝、咒符等有掉落光柱；
-- 字体采用励字准圆简繁，英文采用经典暗黑风格英文字体。
-- 药剂和卷轴名称简写；
-- 装备浮动变量 Max；(采用凯恩之角论坛大佬)
-- 装备属性添加了英文缩写以便与 Max 变量进行比较。
-- 装备品质和重量，(轻，中，重)表示重量，(普，扩，精)表示品阶；
-- 带孔（含带孔无形）底材地面显示为淡粉紫色，纯无形底材地面显示为淡青色；
-- 箱子、武器架和凯恩等添加光效；
-- 黑毛进度提醒。
-- 入口和小站光柱指引。
-- 屏蔽垃圾词缀（劣等的、损坏的、破旧的、粗制的）的物品。
-- 小地图标识 npc 和好友图标。
-- 怪物血条优化。
-- 添加新简体字版。是重制版的繁体翻译为简体中文，而不是官方的简体中文。例如：“斬鐮”（繁体）和“斩镰”（简体）而不是“砍斧”。
-- 调整佣兵位置避免 Fps 重叠。
-- 屏蔽垃圾的小黑条。(屏蔽了大字体模式的小黑条)
-- 添加荒廢的神殿(藍伊森之書)任务和安达利尔 bug 杀等提示。
-- 添加祭坛功能说明，鼠标放到祭坛上即可看到。
-- 屏蔽杂物（药水、卷轴、钥匙、弓矢等）的物品。
-- 调整了字体库，保持繁体字。
-- 增加了迷你盒子。
-- 增加了刺客保护眼睛特效。
-- 快速登陆。
-- 支持英文显示，包括 Max 变量、品质、重量、吐槽、暗黑百科等。
-- 技能增加英文说明。
-- 物品增加英文说明。
-- 增加尼拉塞克指引和巴爾(分身)显示。
-- 增加任务和 Bug 任务提示。
-- 彩色经验条。
-- 精英怪高亮。
+D2RLoader 的 `[d2rcore.items]` 里这三项保持打开：`show_ground_sockets`、`display_item_levels`、`maximum_sockets`。地面孔数、物品等级、最大孔数靠这三项显示。
 
-## 本 MOD 新增功能
+改完字符串或字体后要完全退出再进。游戏里的 reload 只重载 excel 表。
 
-- 普通->地狱怪物密度随难度提升。
-- 普通->地狱精英怪物数量随难度提升。
-- 轻微加快所有角色的回蓝速度。
-- 每次升级获得 7 个属性点和 2 个技能点。
-- 角色初始携带赫拉迪克方块，回城和鉴定从卷轴改为书。
-- 修改原 Mod 中的血/蓝药名称。
-- 修改原 Mod 中的金币，从 `金` 改为 `G`。
-- 略微提高噩梦/地狱难度的抗性惩罚。
-- 略微提高各难度中怪物的技能等级奖励。
-- 提升各难度下佣兵对 BOSS 造成的伤害。
-- 较大的提升赌博出现稀有/暗金/套装等高级装备的概率。
-- 提高 1-30 级和 90 级后的经验获取倍率。
-- 全腰带 16 格。
-- 提高暗金/套装/超强装备的染色率。
-- 提高高号符文的掉落几率，并且牛场奶牛现在最高可以掉落 12/20/33 号符文。
-- 根据难度提升所有 BOSS 暗金/套装的染色率。
-- 技能上限改为 27 级。
-- 物品名称/符文之语使用 <a href="https://www.wolai.com/5cyjCCgBFwVrFRsH4pwrZe" target="__blank">Yte Mod</a> 中的文本。
+## 参考
 
-## DIY 设置指南
-
-### 去除凯恩发光效果。
-
-将 `Mods\gw\gw.mpq\Data\hd\character` 下的 npc 文件夹删除或改名。
-
-### 更改字体。
-
-将 `Mods\gw\gw.mpq\Data\hd\ui\fonts` 下将`arfangxinshuh7c95b5_eb_t.ttf`改名，将“你的字体文件”重命名为`arfangxinshuh7c95b5_eb_t.ttf`。
-
-### 恢复字体
-
-将 `Mods\gw\gw.mpq\Data\hd\ui\fonts` 下文件删除或改名，即可恢复原版字体。
-
-### 删除地图进口和小站的光柱指引。
-
-删除以下文件夹即可。
-
-- `data\hd\roomtiles\`
-- `data\hd\objects\waypoint_portals\`
-
-## 参考资料
-
-- <a href="https://bbs.d.163.com/forum.php?mod=viewthread&tid=175054315" target="__blank">TinaAlone Mod</a>
-- <a href="https://www.wolai.com/5cyjCCgBFwVrFRsH4pwrZe" target="__blank">Yte Mod</a>
-- <a href="https://www.bilibili.com/video/BV1p44y1L7T4" target="__blank">【暗黑 2 重制】手把手教你做 Mod</a>
+- [手把手教你做 Mod](https://www.bilibili.com/video/BV1p44y1L7T4)
